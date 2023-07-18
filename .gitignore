@@ -3,6 +3,8 @@ data/
 Data_Analysis_Tools/
 materials/
 Study_Images/
+results/results_long.csv
+results/results_wide.csv
 
 
 # Byte-compiled / optimized / DLL files

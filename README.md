@@ -2,7 +2,7 @@
 
 This repository contains the code that was used for our MuC'23 Short Paper submission *Appealing but Potentially Biasing - Investigation of the Visual Representation of Segmentation Predictions by AI Recommender Systems for Medical Decision Making*. 
 
-<img src="figures/study_images_4x4.pdf" width="600px" align="center"/>
+<img src="figures/study_images_4x4.png" width="600px" align="center"/>
 
 
 ## Acknowledgements
