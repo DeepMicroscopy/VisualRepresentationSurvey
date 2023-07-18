@@ -1,0 +1,13 @@
+ux_quality;vis_type;alpha
+Hedonic Quality;Bounding Box;0.8213032782007694
+Hedonic Quality;Heatmap;0.879594582637077
+Hedonic Quality;Segmentation Mask;0.8615820898976222
+Hedonic Quality;Segmentation Outline;0.8940676780099606
+Pragmatic Quality;Bounding Box;0.9036003350825738
+Pragmatic Quality;Heatmap;0.9429632482117241
+Pragmatic Quality;Segmentation Mask;0.9317149724880227
+Pragmatic Quality;Segmentation Outline;0.8457283211539981
+Problem-Specific Quality;Bounding Box;0.7762232150819002
+Problem-Specific Quality;Heatmap;0.8059230830393392
+Problem-Specific Quality;Segmentation Mask;0.7547701912537814
+Problem-Specific Quality;Segmentation Outline;0.571192475754373

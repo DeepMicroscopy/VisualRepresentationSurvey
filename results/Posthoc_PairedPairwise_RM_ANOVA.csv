@@ -1,0 +1,28 @@
+Contrast;ux_quality;A;B;mean(A);std(A);mean(B);std(B);Paired;Parametric;T;dof;alternative;p-unc;p-corr;p-adjust;BF10;hedges
+ux_quality;-;Hedonic Quality;Pragmatic Quality;0.6745;0.7767;1.0703;0.9147;True;True;-2.2328;23.0;two-sided;0.0356;0.0712;holm;1.705;-0.4589
+ux_quality;-;Hedonic Quality;Problem-Specific Quality;0.6745;0.7767;0.4974;0.6577;True;True;1.1579;23.0;two-sided;0.2588;0.2588;holm;0.39;0.242
+ux_quality;-;Pragmatic Quality;Problem-Specific Quality;1.0703;0.9147;0.4974;0.6577;True;True;2.9972;23.0;two-sided;0.0064;0.0193;holm;7.028;0.7074
+vis_type;-;Bounding Box;Heatmap;0.4132;0.911;0.6771;1.3286;True;True;-0.7117;23.0;two-sided;0.4838;0.9676;holm;0.27;-0.2279
+vis_type;-;Bounding Box;Segmentation Contour;0.4132;0.911;1.2049;0.757;True;True;-3.1151;23.0;two-sided;0.0049;0.0292;holm;8.905;-0.9297
+vis_type;-;Bounding Box;Segmentation Mask;0.4132;0.911;0.6944;1.0308;True;True;-1.0457;23.0;two-sided;0.3065;0.9196;holm;0.35;-0.2844
+vis_type;-;Heatmap;Segmentation Contour;0.6771;1.3286;1.2049;0.757;True;True;-1.7753;23.0;two-sided;0.0891;0.3563;holm;0.832;-0.4801
+vis_type;-;Heatmap;Segmentation Mask;0.6771;1.3286;0.6944;1.0308;True;True;-0.0754;23.0;two-sided;0.9405;0.9676;holm;0.215;-0.0144
+vis_type;-;Segmentation Contour;Segmentation Mask;1.2049;0.757;0.6944;1.0308;True;True;2.701;23.0;two-sided;0.0128;0.0638;holm;3.952;0.5552
+ux_quality * vis_type;Hedonic Quality;Bounding Box;Heatmap;-0.1667;0.9936;1.2604;1.4055;True;True;-4.313;23.0;two-sided;0.0003;0.0046;holm;116.001;-1.1533
+ux_quality * vis_type;Hedonic Quality;Bounding Box;Segmentation Contour;-0.1667;0.9936;0.8542;1.0397;True;True;-3.5367;23.0;two-sided;0.0018;0.03;holm;21.379;-0.9874
+ux_quality * vis_type;Hedonic Quality;Bounding Box;Segmentation Mask;-0.1667;0.9936;0.75;1.0347;True;True;-3.0819;23.0;two-sided;0.0053;0.079;holm;8.328;-0.8888
+ux_quality * vis_type;Hedonic Quality;Heatmap;Segmentation Contour;1.2604;1.4055;0.8542;1.0397;True;True;1.3709;23.0;two-sided;0.1836;1.0;holm;0.491;0.3232
+ux_quality * vis_type;Hedonic Quality;Heatmap;Segmentation Mask;1.2604;1.4055;0.75;1.0347;True;True;2.3;23.0;two-sided;0.0309;0.3394;holm;1.912;0.4068
+ux_quality * vis_type;Hedonic Quality;Segmentation Contour;Segmentation Mask;0.8542;1.0397;0.75;1.0347;True;True;0.5831;23.0;two-sided;0.5655;1.0;holm;0.251;0.0988
+ux_quality * vis_type;Pragmatic Quality;Bounding Box;Heatmap;0.9688;1.3235;0.6354;1.9959;True;True;0.6224;23.0;two-sided;0.5398;1.0;holm;0.256;0.1936
+ux_quality * vis_type;Pragmatic Quality;Bounding Box;Segmentation Contour;0.9688;1.3235;1.8854;1.1656;True;True;-2.4123;23.0;two-sided;0.0242;0.2908;holm;2.327;-0.723
+ux_quality * vis_type;Pragmatic Quality;Bounding Box;Segmentation Mask;0.9688;1.3235;0.7917;1.6297;True;True;0.4226;23.0;two-sided;0.6765;1.0;holm;0.233;0.1173
+ux_quality * vis_type;Pragmatic Quality;Heatmap;Segmentation Contour;0.6354;1.9959;1.8854;1.1656;True;True;-2.7782;23.0;two-sided;0.0107;0.1497;holm;4.578;-0.7523
+ux_quality * vis_type;Pragmatic Quality;Heatmap;Segmentation Mask;0.6354;1.9959;0.7917;1.6297;True;True;-0.3982;23.0;two-sided;0.6941;1.0;holm;0.231;-0.0844
+ux_quality * vis_type;Pragmatic Quality;Segmentation Contour;Segmentation Mask;1.8854;1.1656;0.7917;1.6297;True;True;3.3932;23.0;two-sided;0.0025;0.04;holm;15.8;0.7594
+ux_quality * vis_type;Problem-Specific Quality;Bounding Box;Heatmap;0.4375;1.069;0.1354;1.2662;True;True;0.7676;23.0;two-sided;0.4505;1.0;holm;0.28;0.2536
+ux_quality * vis_type;Problem-Specific Quality;Bounding Box;Segmentation Contour;0.4375;1.069;0.875;0.8438;True;True;-2.1134;23.0;two-sided;0.0456;0.4563;holm;1.398;-0.4469
+ux_quality * vis_type;Problem-Specific Quality;Bounding Box;Segmentation Mask;0.4375;1.069;0.5417;1.0572;True;True;-0.3828;23.0;two-sided;0.7053;1.0;holm;0.23;-0.0964
+ux_quality * vis_type;Problem-Specific Quality;Heatmap;Segmentation Contour;0.1354;1.2662;0.875;0.8438;True;True;-2.459;23.0;two-sided;0.0219;0.2845;holm;2.529;-0.6761
+ux_quality * vis_type;Problem-Specific Quality;Heatmap;Segmentation Mask;0.1354;1.2662;0.5417;1.0572;True;True;-1.7397;23.0;two-sided;0.0953;0.8575;holm;0.791;-0.3426
+ux_quality * vis_type;Problem-Specific Quality;Segmentation Contour;Segmentation Mask;0.875;0.8438;0.5417;1.0572;True;True;1.3908;23.0;two-sided;0.1776;1.0;holm;0.503;0.3428

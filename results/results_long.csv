@@ -1,0 +1,1153 @@
+Response ID;Expertise;vis_type;variable;value;ux_quality
+23;Pathology;Segmentation Mask;complicated_easy;7;Pragmatic Quality
+23;Pathology;Heatmap;complicated_easy;7;Pragmatic Quality
+23;Pathology;Segmentation Contour;complicated_easy;7;Pragmatic Quality
+23;Pathology;Bounding Box;complicated_easy;7;Pragmatic Quality
+24;Radiology;Segmentation Mask;complicated_easy;5;Pragmatic Quality
+24;Radiology;Heatmap;complicated_easy;3;Pragmatic Quality
+24;Radiology;Segmentation Contour;complicated_easy;7;Pragmatic Quality
+24;Radiology;Bounding Box;complicated_easy;4;Pragmatic Quality
+26;Pathology;Segmentation Mask;complicated_easy;3;Pragmatic Quality
+26;Pathology;Heatmap;complicated_easy;6;Pragmatic Quality
+26;Pathology;Segmentation Contour;complicated_easy;5;Pragmatic Quality
+26;Pathology;Bounding Box;complicated_easy;3;Pragmatic Quality
+32;Radiology;Segmentation Mask;complicated_easy;3;Pragmatic Quality
+32;Radiology;Heatmap;complicated_easy;1;Pragmatic Quality
+32;Radiology;Segmentation Contour;complicated_easy;7;Pragmatic Quality
+32;Radiology;Bounding Box;complicated_easy;4;Pragmatic Quality
+34;Pathology;Segmentation Mask;complicated_easy;3;Pragmatic Quality
+34;Pathology;Heatmap;complicated_easy;2;Pragmatic Quality
+34;Pathology;Segmentation Contour;complicated_easy;6;Pragmatic Quality
+34;Pathology;Bounding Box;complicated_easy;7;Pragmatic Quality
+35;Pathology;Segmentation Mask;complicated_easy;3;Pragmatic Quality
+35;Pathology;Heatmap;complicated_easy;2;Pragmatic Quality
+35;Pathology;Segmentation Contour;complicated_easy;7;Pragmatic Quality
+35;Pathology;Bounding Box;complicated_easy;4;Pragmatic Quality
+36;Pathology;Segmentation Mask;complicated_easy;7;Pragmatic Quality
+36;Pathology;Heatmap;complicated_easy;6;Pragmatic Quality
+36;Pathology;Segmentation Contour;complicated_easy;7;Pragmatic Quality
+36;Pathology;Bounding Box;complicated_easy;7;Pragmatic Quality
+37;Pathology;Segmentation Mask;complicated_easy;5;Pragmatic Quality
+37;Pathology;Heatmap;complicated_easy;1;Pragmatic Quality
+37;Pathology;Segmentation Contour;complicated_easy;5;Pragmatic Quality
+37;Pathology;Bounding Box;complicated_easy;7;Pragmatic Quality
+40;Pathology;Segmentation Mask;complicated_easy;7;Pragmatic Quality
+40;Pathology;Heatmap;complicated_easy;7;Pragmatic Quality
+40;Pathology;Segmentation Contour;complicated_easy;7;Pragmatic Quality
+40;Pathology;Bounding Box;complicated_easy;7;Pragmatic Quality
+41;Radiology;Segmentation Mask;complicated_easy;3;Pragmatic Quality
+41;Radiology;Heatmap;complicated_easy;7;Pragmatic Quality
+41;Radiology;Segmentation Contour;complicated_easy;7;Pragmatic Quality
+41;Radiology;Bounding Box;complicated_easy;6;Pragmatic Quality
+42;Pathology;Segmentation Mask;complicated_easy;4;Pragmatic Quality
+42;Pathology;Heatmap;complicated_easy;4;Pragmatic Quality
+42;Pathology;Segmentation Contour;complicated_easy;4;Pragmatic Quality
+42;Pathology;Bounding Box;complicated_easy;4;Pragmatic Quality
+43;Pathology;Segmentation Mask;complicated_easy;7;Pragmatic Quality
+43;Pathology;Heatmap;complicated_easy;6;Pragmatic Quality
+43;Pathology;Segmentation Contour;complicated_easy;7;Pragmatic Quality
+43;Pathology;Bounding Box;complicated_easy;3;Pragmatic Quality
+45;Pathology;Segmentation Mask;complicated_easy;5;Pragmatic Quality
+45;Pathology;Heatmap;complicated_easy;1;Pragmatic Quality
+45;Pathology;Segmentation Contour;complicated_easy;7;Pragmatic Quality
+45;Pathology;Bounding Box;complicated_easy;6;Pragmatic Quality
+46;Radiology;Segmentation Mask;complicated_easy;7;Pragmatic Quality
+46;Radiology;Heatmap;complicated_easy;7;Pragmatic Quality
+46;Radiology;Segmentation Contour;complicated_easy;6;Pragmatic Quality
+46;Radiology;Bounding Box;complicated_easy;3;Pragmatic Quality
+52;Pathology;Segmentation Mask;complicated_easy;3;Pragmatic Quality
+52;Pathology;Heatmap;complicated_easy;4;Pragmatic Quality
+52;Pathology;Segmentation Contour;complicated_easy;4;Pragmatic Quality
+52;Pathology;Bounding Box;complicated_easy;4;Pragmatic Quality
+55;Radiology;Segmentation Mask;complicated_easy;6;Pragmatic Quality
+55;Radiology;Heatmap;complicated_easy;3;Pragmatic Quality
+55;Radiology;Segmentation Contour;complicated_easy;3;Pragmatic Quality
+55;Radiology;Bounding Box;complicated_easy;7;Pragmatic Quality
+64;Pathology;Segmentation Mask;complicated_easy;7;Pragmatic Quality
+64;Pathology;Heatmap;complicated_easy;7;Pragmatic Quality
+64;Pathology;Segmentation Contour;complicated_easy;5;Pragmatic Quality
+64;Pathology;Bounding Box;complicated_easy;7;Pragmatic Quality
+69;Radiology;Segmentation Mask;complicated_easy;2;Pragmatic Quality
+69;Radiology;Heatmap;complicated_easy;6;Pragmatic Quality
+69;Radiology;Segmentation Contour;complicated_easy;5;Pragmatic Quality
+69;Radiology;Bounding Box;complicated_easy;6;Pragmatic Quality
+71;Pathology;Segmentation Mask;complicated_easy;4;Pragmatic Quality
+71;Pathology;Heatmap;complicated_easy;6;Pragmatic Quality
+71;Pathology;Segmentation Contour;complicated_easy;2;Pragmatic Quality
+71;Pathology;Bounding Box;complicated_easy;7;Pragmatic Quality
+78;Pathology;Segmentation Mask;complicated_easy;7;Pragmatic Quality
+78;Pathology;Heatmap;complicated_easy;6;Pragmatic Quality
+78;Pathology;Segmentation Contour;complicated_easy;7;Pragmatic Quality
+78;Pathology;Bounding Box;complicated_easy;7;Pragmatic Quality
+88;Radiology;Segmentation Mask;complicated_easy;6;Pragmatic Quality
+88;Radiology;Heatmap;complicated_easy;6;Pragmatic Quality
+88;Radiology;Segmentation Contour;complicated_easy;5;Pragmatic Quality
+88;Radiology;Bounding Box;complicated_easy;2;Pragmatic Quality
+90;Radiology;Segmentation Mask;complicated_easy;7;Pragmatic Quality
+90;Radiology;Heatmap;complicated_easy;7;Pragmatic Quality
+90;Radiology;Segmentation Contour;complicated_easy;7;Pragmatic Quality
+90;Radiology;Bounding Box;complicated_easy;4;Pragmatic Quality
+91;Radiology;Segmentation Mask;complicated_easy;5;Pragmatic Quality
+91;Radiology;Heatmap;complicated_easy;6;Pragmatic Quality
+91;Radiology;Segmentation Contour;complicated_easy;7;Pragmatic Quality
+91;Radiology;Bounding Box;complicated_easy;6;Pragmatic Quality
+92;Pathology;Segmentation Mask;complicated_easy;2;Pragmatic Quality
+92;Pathology;Heatmap;complicated_easy;2;Pragmatic Quality
+92;Pathology;Segmentation Contour;complicated_easy;5;Pragmatic Quality
+92;Pathology;Bounding Box;complicated_easy;5;Pragmatic Quality
+23;Pathology;Segmentation Mask;untraceable_traceable;4;Problem-Specific Quality
+23;Pathology;Heatmap;untraceable_traceable;4;Problem-Specific Quality
+23;Pathology;Segmentation Contour;untraceable_traceable;4;Problem-Specific Quality
+23;Pathology;Bounding Box;untraceable_traceable;4;Problem-Specific Quality
+24;Radiology;Segmentation Mask;untraceable_traceable;6;Problem-Specific Quality
+24;Radiology;Heatmap;untraceable_traceable;3;Problem-Specific Quality
+24;Radiology;Segmentation Contour;untraceable_traceable;5;Problem-Specific Quality
+24;Radiology;Bounding Box;untraceable_traceable;2;Problem-Specific Quality
+26;Pathology;Segmentation Mask;untraceable_traceable;4;Problem-Specific Quality
+26;Pathology;Heatmap;untraceable_traceable;4;Problem-Specific Quality
+26;Pathology;Segmentation Contour;untraceable_traceable;4;Problem-Specific Quality
+26;Pathology;Bounding Box;untraceable_traceable;4;Problem-Specific Quality
+32;Radiology;Segmentation Mask;untraceable_traceable;3;Problem-Specific Quality
+32;Radiology;Heatmap;untraceable_traceable;2;Problem-Specific Quality
+32;Radiology;Segmentation Contour;untraceable_traceable;4;Problem-Specific Quality
+32;Radiology;Bounding Box;untraceable_traceable;4;Problem-Specific Quality
+34;Pathology;Segmentation Mask;untraceable_traceable;6;Problem-Specific Quality
+34;Pathology;Heatmap;untraceable_traceable;2;Problem-Specific Quality
+34;Pathology;Segmentation Contour;untraceable_traceable;6;Problem-Specific Quality
+34;Pathology;Bounding Box;untraceable_traceable;7;Problem-Specific Quality
+35;Pathology;Segmentation Mask;untraceable_traceable;4;Problem-Specific Quality
+35;Pathology;Heatmap;untraceable_traceable;4;Problem-Specific Quality
+35;Pathology;Segmentation Contour;untraceable_traceable;6;Problem-Specific Quality
+35;Pathology;Bounding Box;untraceable_traceable;4;Problem-Specific Quality
+36;Pathology;Segmentation Mask;untraceable_traceable;2;Problem-Specific Quality
+36;Pathology;Heatmap;untraceable_traceable;3;Problem-Specific Quality
+36;Pathology;Segmentation Contour;untraceable_traceable;2;Problem-Specific Quality
+36;Pathology;Bounding Box;untraceable_traceable;2;Problem-Specific Quality
+37;Pathology;Segmentation Mask;untraceable_traceable;6;Problem-Specific Quality
+37;Pathology;Heatmap;untraceable_traceable;4;Problem-Specific Quality
+37;Pathology;Segmentation Contour;untraceable_traceable;7;Problem-Specific Quality
+37;Pathology;Bounding Box;untraceable_traceable;7;Problem-Specific Quality
+40;Pathology;Segmentation Mask;untraceable_traceable;7;Problem-Specific Quality
+40;Pathology;Heatmap;untraceable_traceable;7;Problem-Specific Quality
+40;Pathology;Segmentation Contour;untraceable_traceable;7;Problem-Specific Quality
+40;Pathology;Bounding Box;untraceable_traceable;5;Problem-Specific Quality
+41;Radiology;Segmentation Mask;untraceable_traceable;7;Problem-Specific Quality
+41;Radiology;Heatmap;untraceable_traceable;7;Problem-Specific Quality
+41;Radiology;Segmentation Contour;untraceable_traceable;7;Problem-Specific Quality
+41;Radiology;Bounding Box;untraceable_traceable;3;Problem-Specific Quality
+42;Pathology;Segmentation Mask;untraceable_traceable;4;Problem-Specific Quality
+42;Pathology;Heatmap;untraceable_traceable;4;Problem-Specific Quality
+42;Pathology;Segmentation Contour;untraceable_traceable;4;Problem-Specific Quality
+42;Pathology;Bounding Box;untraceable_traceable;4;Problem-Specific Quality
+43;Pathology;Segmentation Mask;untraceable_traceable;6;Problem-Specific Quality
+43;Pathology;Heatmap;untraceable_traceable;6;Problem-Specific Quality
+43;Pathology;Segmentation Contour;untraceable_traceable;6;Problem-Specific Quality
+43;Pathology;Bounding Box;untraceable_traceable;4;Problem-Specific Quality
+45;Pathology;Segmentation Mask;untraceable_traceable;5;Problem-Specific Quality
+45;Pathology;Heatmap;untraceable_traceable;4;Problem-Specific Quality
+45;Pathology;Segmentation Contour;untraceable_traceable;6;Problem-Specific Quality
+45;Pathology;Bounding Box;untraceable_traceable;6;Problem-Specific Quality
+46;Radiology;Segmentation Mask;untraceable_traceable;6;Problem-Specific Quality
+46;Radiology;Heatmap;untraceable_traceable;7;Problem-Specific Quality
+46;Radiology;Segmentation Contour;untraceable_traceable;6;Problem-Specific Quality
+46;Radiology;Bounding Box;untraceable_traceable;5;Problem-Specific Quality
+52;Pathology;Segmentation Mask;untraceable_traceable;4;Problem-Specific Quality
+52;Pathology;Heatmap;untraceable_traceable;4;Problem-Specific Quality
+52;Pathology;Segmentation Contour;untraceable_traceable;4;Problem-Specific Quality
+52;Pathology;Bounding Box;untraceable_traceable;3;Problem-Specific Quality
+55;Radiology;Segmentation Mask;untraceable_traceable;6;Problem-Specific Quality
+55;Radiology;Heatmap;untraceable_traceable;3;Problem-Specific Quality
+55;Radiology;Segmentation Contour;untraceable_traceable;5;Problem-Specific Quality
+55;Radiology;Bounding Box;untraceable_traceable;7;Problem-Specific Quality
+64;Pathology;Segmentation Mask;untraceable_traceable;5;Problem-Specific Quality
+64;Pathology;Heatmap;untraceable_traceable;7;Problem-Specific Quality
+64;Pathology;Segmentation Contour;untraceable_traceable;5;Problem-Specific Quality
+64;Pathology;Bounding Box;untraceable_traceable;4;Problem-Specific Quality
+69;Radiology;Segmentation Mask;untraceable_traceable;4;Problem-Specific Quality
+69;Radiology;Heatmap;untraceable_traceable;5;Problem-Specific Quality
+69;Radiology;Segmentation Contour;untraceable_traceable;6;Problem-Specific Quality
+69;Radiology;Bounding Box;untraceable_traceable;3;Problem-Specific Quality
+71;Pathology;Segmentation Mask;untraceable_traceable;5;Problem-Specific Quality
+71;Pathology;Heatmap;untraceable_traceable;2;Problem-Specific Quality
+71;Pathology;Segmentation Contour;untraceable_traceable;4;Problem-Specific Quality
+71;Pathology;Bounding Box;untraceable_traceable;2;Problem-Specific Quality
+78;Pathology;Segmentation Mask;untraceable_traceable;7;Problem-Specific Quality
+78;Pathology;Heatmap;untraceable_traceable;6;Problem-Specific Quality
+78;Pathology;Segmentation Contour;untraceable_traceable;7;Problem-Specific Quality
+78;Pathology;Bounding Box;untraceable_traceable;4;Problem-Specific Quality
+88;Radiology;Segmentation Mask;untraceable_traceable;7;Problem-Specific Quality
+88;Radiology;Heatmap;untraceable_traceable;6;Problem-Specific Quality
+88;Radiology;Segmentation Contour;untraceable_traceable;7;Problem-Specific Quality
+88;Radiology;Bounding Box;untraceable_traceable;6;Problem-Specific Quality
+90;Radiology;Segmentation Mask;untraceable_traceable;7;Problem-Specific Quality
+90;Radiology;Heatmap;untraceable_traceable;4;Problem-Specific Quality
+90;Radiology;Segmentation Contour;untraceable_traceable;7;Problem-Specific Quality
+90;Radiology;Bounding Box;untraceable_traceable;5;Problem-Specific Quality
+91;Radiology;Segmentation Mask;untraceable_traceable;5;Problem-Specific Quality
+91;Radiology;Heatmap;untraceable_traceable;6;Problem-Specific Quality
+91;Radiology;Segmentation Contour;untraceable_traceable;5;Problem-Specific Quality
+91;Radiology;Bounding Box;untraceable_traceable;4;Problem-Specific Quality
+92;Pathology;Segmentation Mask;untraceable_traceable;4;Problem-Specific Quality
+92;Pathology;Heatmap;untraceable_traceable;3;Problem-Specific Quality
+92;Pathology;Segmentation Contour;untraceable_traceable;4;Problem-Specific Quality
+92;Pathology;Bounding Box;untraceable_traceable;6;Problem-Specific Quality
+23;Pathology;Segmentation Mask;confusing_clear;7;Pragmatic Quality
+23;Pathology;Heatmap;confusing_clear;7;Pragmatic Quality
+23;Pathology;Segmentation Contour;confusing_clear;7;Pragmatic Quality
+23;Pathology;Bounding Box;confusing_clear;7;Pragmatic Quality
+24;Radiology;Segmentation Mask;confusing_clear;3;Pragmatic Quality
+24;Radiology;Heatmap;confusing_clear;3;Pragmatic Quality
+24;Radiology;Segmentation Contour;confusing_clear;7;Pragmatic Quality
+24;Radiology;Bounding Box;confusing_clear;2;Pragmatic Quality
+26;Pathology;Segmentation Mask;confusing_clear;4;Pragmatic Quality
+26;Pathology;Heatmap;confusing_clear;7;Pragmatic Quality
+26;Pathology;Segmentation Contour;confusing_clear;6;Pragmatic Quality
+26;Pathology;Bounding Box;confusing_clear;7;Pragmatic Quality
+32;Radiology;Segmentation Mask;confusing_clear;3;Pragmatic Quality
+32;Radiology;Heatmap;confusing_clear;1;Pragmatic Quality
+32;Radiology;Segmentation Contour;confusing_clear;7;Pragmatic Quality
+32;Radiology;Bounding Box;confusing_clear;4;Pragmatic Quality
+34;Pathology;Segmentation Mask;confusing_clear;5;Pragmatic Quality
+34;Pathology;Heatmap;confusing_clear;3;Pragmatic Quality
+34;Pathology;Segmentation Contour;confusing_clear;6;Pragmatic Quality
+34;Pathology;Bounding Box;confusing_clear;7;Pragmatic Quality
+35;Pathology;Segmentation Mask;confusing_clear;3;Pragmatic Quality
+35;Pathology;Heatmap;confusing_clear;3;Pragmatic Quality
+35;Pathology;Segmentation Contour;confusing_clear;7;Pragmatic Quality
+35;Pathology;Bounding Box;confusing_clear;4;Pragmatic Quality
+36;Pathology;Segmentation Mask;confusing_clear;7;Pragmatic Quality
+36;Pathology;Heatmap;confusing_clear;6;Pragmatic Quality
+36;Pathology;Segmentation Contour;confusing_clear;7;Pragmatic Quality
+36;Pathology;Bounding Box;confusing_clear;6;Pragmatic Quality
+37;Pathology;Segmentation Mask;confusing_clear;4;Pragmatic Quality
+37;Pathology;Heatmap;confusing_clear;1;Pragmatic Quality
+37;Pathology;Segmentation Contour;confusing_clear;6;Pragmatic Quality
+37;Pathology;Bounding Box;confusing_clear;7;Pragmatic Quality
+40;Pathology;Segmentation Mask;confusing_clear;7;Pragmatic Quality
+40;Pathology;Heatmap;confusing_clear;6;Pragmatic Quality
+40;Pathology;Segmentation Contour;confusing_clear;7;Pragmatic Quality
+40;Pathology;Bounding Box;confusing_clear;6;Pragmatic Quality
+41;Radiology;Segmentation Mask;confusing_clear;3;Pragmatic Quality
+41;Radiology;Heatmap;confusing_clear;7;Pragmatic Quality
+41;Radiology;Segmentation Contour;confusing_clear;7;Pragmatic Quality
+41;Radiology;Bounding Box;confusing_clear;4;Pragmatic Quality
+42;Pathology;Segmentation Mask;confusing_clear;4;Pragmatic Quality
+42;Pathology;Heatmap;confusing_clear;4;Pragmatic Quality
+42;Pathology;Segmentation Contour;confusing_clear;4;Pragmatic Quality
+42;Pathology;Bounding Box;confusing_clear;4;Pragmatic Quality
+43;Pathology;Segmentation Mask;confusing_clear;7;Pragmatic Quality
+43;Pathology;Heatmap;confusing_clear;6;Pragmatic Quality
+43;Pathology;Segmentation Contour;confusing_clear;7;Pragmatic Quality
+43;Pathology;Bounding Box;confusing_clear;4;Pragmatic Quality
+45;Pathology;Segmentation Mask;confusing_clear;6;Pragmatic Quality
+45;Pathology;Heatmap;confusing_clear;1;Pragmatic Quality
+45;Pathology;Segmentation Contour;confusing_clear;7;Pragmatic Quality
+45;Pathology;Bounding Box;confusing_clear;6;Pragmatic Quality
+46;Radiology;Segmentation Mask;confusing_clear;7;Pragmatic Quality
+46;Radiology;Heatmap;confusing_clear;7;Pragmatic Quality
+46;Radiology;Segmentation Contour;confusing_clear;6;Pragmatic Quality
+46;Radiology;Bounding Box;confusing_clear;4;Pragmatic Quality
+52;Pathology;Segmentation Mask;confusing_clear;4;Pragmatic Quality
+52;Pathology;Heatmap;confusing_clear;5;Pragmatic Quality
+52;Pathology;Segmentation Contour;confusing_clear;4;Pragmatic Quality
+52;Pathology;Bounding Box;confusing_clear;4;Pragmatic Quality
+55;Radiology;Segmentation Mask;confusing_clear;4;Pragmatic Quality
+55;Radiology;Heatmap;confusing_clear;1;Pragmatic Quality
+55;Radiology;Segmentation Contour;confusing_clear;3;Pragmatic Quality
+55;Radiology;Bounding Box;confusing_clear;7;Pragmatic Quality
+64;Pathology;Segmentation Mask;confusing_clear;7;Pragmatic Quality
+64;Pathology;Heatmap;confusing_clear;7;Pragmatic Quality
+64;Pathology;Segmentation Contour;confusing_clear;7;Pragmatic Quality
+64;Pathology;Bounding Box;confusing_clear;3;Pragmatic Quality
+69;Radiology;Segmentation Mask;confusing_clear;1;Pragmatic Quality
+69;Radiology;Heatmap;confusing_clear;4;Pragmatic Quality
+69;Radiology;Segmentation Contour;confusing_clear;2;Pragmatic Quality
+69;Radiology;Bounding Box;confusing_clear;6;Pragmatic Quality
+71;Pathology;Segmentation Mask;confusing_clear;4;Pragmatic Quality
+71;Pathology;Heatmap;confusing_clear;7;Pragmatic Quality
+71;Pathology;Segmentation Contour;confusing_clear;4;Pragmatic Quality
+71;Pathology;Bounding Box;confusing_clear;4;Pragmatic Quality
+78;Pathology;Segmentation Mask;confusing_clear;7;Pragmatic Quality
+78;Pathology;Heatmap;confusing_clear;7;Pragmatic Quality
+78;Pathology;Segmentation Contour;confusing_clear;7;Pragmatic Quality
+78;Pathology;Bounding Box;confusing_clear;6;Pragmatic Quality
+88;Radiology;Segmentation Mask;confusing_clear;6;Pragmatic Quality
+88;Radiology;Heatmap;confusing_clear;6;Pragmatic Quality
+88;Radiology;Segmentation Contour;confusing_clear;7;Pragmatic Quality
+88;Radiology;Bounding Box;confusing_clear;2;Pragmatic Quality
+90;Radiology;Segmentation Mask;confusing_clear;7;Pragmatic Quality
+90;Radiology;Heatmap;confusing_clear;3;Pragmatic Quality
+90;Radiology;Segmentation Contour;confusing_clear;7;Pragmatic Quality
+90;Radiology;Bounding Box;confusing_clear;4;Pragmatic Quality
+91;Radiology;Segmentation Mask;confusing_clear;5;Pragmatic Quality
+91;Radiology;Heatmap;confusing_clear;6;Pragmatic Quality
+91;Radiology;Segmentation Contour;confusing_clear;7;Pragmatic Quality
+91;Radiology;Bounding Box;confusing_clear;5;Pragmatic Quality
+92;Pathology;Segmentation Mask;confusing_clear;3;Pragmatic Quality
+92;Pathology;Heatmap;confusing_clear;1;Pragmatic Quality
+92;Pathology;Segmentation Contour;confusing_clear;6;Pragmatic Quality
+92;Pathology;Bounding Box;confusing_clear;6;Pragmatic Quality
+23;Pathology;Segmentation Mask;biasing_neutral;4;Problem-Specific Quality
+23;Pathology;Heatmap;biasing_neutral;4;Problem-Specific Quality
+23;Pathology;Segmentation Contour;biasing_neutral;3;Problem-Specific Quality
+23;Pathology;Bounding Box;biasing_neutral;3;Problem-Specific Quality
+24;Radiology;Segmentation Mask;biasing_neutral;3;Problem-Specific Quality
+24;Radiology;Heatmap;biasing_neutral;3;Problem-Specific Quality
+24;Radiology;Segmentation Contour;biasing_neutral;2;Problem-Specific Quality
+24;Radiology;Bounding Box;biasing_neutral;6;Problem-Specific Quality
+26;Pathology;Segmentation Mask;biasing_neutral;4;Problem-Specific Quality
+26;Pathology;Heatmap;biasing_neutral;4;Problem-Specific Quality
+26;Pathology;Segmentation Contour;biasing_neutral;4;Problem-Specific Quality
+26;Pathology;Bounding Box;biasing_neutral;4;Problem-Specific Quality
+32;Radiology;Segmentation Mask;biasing_neutral;3;Problem-Specific Quality
+32;Radiology;Heatmap;biasing_neutral;2;Problem-Specific Quality
+32;Radiology;Segmentation Contour;biasing_neutral;6;Problem-Specific Quality
+32;Radiology;Bounding Box;biasing_neutral;4;Problem-Specific Quality
+34;Pathology;Segmentation Mask;biasing_neutral;3;Problem-Specific Quality
+34;Pathology;Heatmap;biasing_neutral;2;Problem-Specific Quality
+34;Pathology;Segmentation Contour;biasing_neutral;3;Problem-Specific Quality
+34;Pathology;Bounding Box;biasing_neutral;3;Problem-Specific Quality
+35;Pathology;Segmentation Mask;biasing_neutral;4;Problem-Specific Quality
+35;Pathology;Heatmap;biasing_neutral;4;Problem-Specific Quality
+35;Pathology;Segmentation Contour;biasing_neutral;4;Problem-Specific Quality
+35;Pathology;Bounding Box;biasing_neutral;4;Problem-Specific Quality
+36;Pathology;Segmentation Mask;biasing_neutral;4;Problem-Specific Quality
+36;Pathology;Heatmap;biasing_neutral;4;Problem-Specific Quality
+36;Pathology;Segmentation Contour;biasing_neutral;4;Problem-Specific Quality
+36;Pathology;Bounding Box;biasing_neutral;4;Problem-Specific Quality
+37;Pathology;Segmentation Mask;biasing_neutral;7;Problem-Specific Quality
+37;Pathology;Heatmap;biasing_neutral;1;Problem-Specific Quality
+37;Pathology;Segmentation Contour;biasing_neutral;4;Problem-Specific Quality
+37;Pathology;Bounding Box;biasing_neutral;7;Problem-Specific Quality
+40;Pathology;Segmentation Mask;biasing_neutral;3;Problem-Specific Quality
+40;Pathology;Heatmap;biasing_neutral;4;Problem-Specific Quality
+40;Pathology;Segmentation Contour;biasing_neutral;2;Problem-Specific Quality
+40;Pathology;Bounding Box;biasing_neutral;3;Problem-Specific Quality
+41;Radiology;Segmentation Mask;biasing_neutral;3;Problem-Specific Quality
+41;Radiology;Heatmap;biasing_neutral;6;Problem-Specific Quality
+41;Radiology;Segmentation Contour;biasing_neutral;5;Problem-Specific Quality
+41;Radiology;Bounding Box;biasing_neutral;4;Problem-Specific Quality
+42;Pathology;Segmentation Mask;biasing_neutral;4;Problem-Specific Quality
+42;Pathology;Heatmap;biasing_neutral;4;Problem-Specific Quality
+42;Pathology;Segmentation Contour;biasing_neutral;4;Problem-Specific Quality
+42;Pathology;Bounding Box;biasing_neutral;4;Problem-Specific Quality
+43;Pathology;Segmentation Mask;biasing_neutral;3;Problem-Specific Quality
+43;Pathology;Heatmap;biasing_neutral;2;Problem-Specific Quality
+43;Pathology;Segmentation Contour;biasing_neutral;3;Problem-Specific Quality
+43;Pathology;Bounding Box;biasing_neutral;2;Problem-Specific Quality
+45;Pathology;Segmentation Mask;biasing_neutral;1;Problem-Specific Quality
+45;Pathology;Heatmap;biasing_neutral;1;Problem-Specific Quality
+45;Pathology;Segmentation Contour;biasing_neutral;7;Problem-Specific Quality
+45;Pathology;Bounding Box;biasing_neutral;7;Problem-Specific Quality
+46;Radiology;Segmentation Mask;biasing_neutral;2;Problem-Specific Quality
+46;Radiology;Heatmap;biasing_neutral;2;Problem-Specific Quality
+46;Radiology;Segmentation Contour;biasing_neutral;2;Problem-Specific Quality
+46;Radiology;Bounding Box;biasing_neutral;5;Problem-Specific Quality
+52;Pathology;Segmentation Mask;biasing_neutral;4;Problem-Specific Quality
+52;Pathology;Heatmap;biasing_neutral;4;Problem-Specific Quality
+52;Pathology;Segmentation Contour;biasing_neutral;4;Problem-Specific Quality
+52;Pathology;Bounding Box;biasing_neutral;4;Problem-Specific Quality
+55;Radiology;Segmentation Mask;biasing_neutral;4;Problem-Specific Quality
+55;Radiology;Heatmap;biasing_neutral;1;Problem-Specific Quality
+55;Radiology;Segmentation Contour;biasing_neutral;5;Problem-Specific Quality
+55;Radiology;Bounding Box;biasing_neutral;7;Problem-Specific Quality
+64;Pathology;Segmentation Mask;biasing_neutral;5;Problem-Specific Quality
+64;Pathology;Heatmap;biasing_neutral;4;Problem-Specific Quality
+64;Pathology;Segmentation Contour;biasing_neutral;6;Problem-Specific Quality
+64;Pathology;Bounding Box;biasing_neutral;5;Problem-Specific Quality
+69;Radiology;Segmentation Mask;biasing_neutral;5;Problem-Specific Quality
+69;Radiology;Heatmap;biasing_neutral;4;Problem-Specific Quality
+69;Radiology;Segmentation Contour;biasing_neutral;6;Problem-Specific Quality
+69;Radiology;Bounding Box;biasing_neutral;5;Problem-Specific Quality
+71;Pathology;Segmentation Mask;biasing_neutral;6;Problem-Specific Quality
+71;Pathology;Heatmap;biasing_neutral;6;Problem-Specific Quality
+71;Pathology;Segmentation Contour;biasing_neutral;4;Problem-Specific Quality
+71;Pathology;Bounding Box;biasing_neutral;5;Problem-Specific Quality
+78;Pathology;Segmentation Mask;biasing_neutral;6;Problem-Specific Quality
+78;Pathology;Heatmap;biasing_neutral;5;Problem-Specific Quality
+78;Pathology;Segmentation Contour;biasing_neutral;2;Problem-Specific Quality
+78;Pathology;Bounding Box;biasing_neutral;5;Problem-Specific Quality
+88;Radiology;Segmentation Mask;biasing_neutral;6;Problem-Specific Quality
+88;Radiology;Heatmap;biasing_neutral;6;Problem-Specific Quality
+88;Radiology;Segmentation Contour;biasing_neutral;7;Problem-Specific Quality
+88;Radiology;Bounding Box;biasing_neutral;4;Problem-Specific Quality
+90;Radiology;Segmentation Mask;biasing_neutral;1;Problem-Specific Quality
+90;Radiology;Heatmap;biasing_neutral;1;Problem-Specific Quality
+90;Radiology;Segmentation Contour;biasing_neutral;1;Problem-Specific Quality
+90;Radiology;Bounding Box;biasing_neutral;1;Problem-Specific Quality
+91;Radiology;Segmentation Mask;biasing_neutral;3;Problem-Specific Quality
+91;Radiology;Heatmap;biasing_neutral;3;Problem-Specific Quality
+91;Radiology;Segmentation Contour;biasing_neutral;2;Problem-Specific Quality
+91;Radiology;Bounding Box;biasing_neutral;3;Problem-Specific Quality
+92;Pathology;Segmentation Mask;biasing_neutral;3;Problem-Specific Quality
+92;Pathology;Heatmap;biasing_neutral;2;Problem-Specific Quality
+92;Pathology;Segmentation Contour;biasing_neutral;3;Problem-Specific Quality
+92;Pathology;Bounding Box;biasing_neutral;5;Problem-Specific Quality
+23;Pathology;Segmentation Mask;doubtful_trustworthy;5;Problem-Specific Quality
+23;Pathology;Heatmap;doubtful_trustworthy;4;Problem-Specific Quality
+23;Pathology;Segmentation Contour;doubtful_trustworthy;4;Problem-Specific Quality
+23;Pathology;Bounding Box;doubtful_trustworthy;4;Problem-Specific Quality
+24;Radiology;Segmentation Mask;doubtful_trustworthy;6;Problem-Specific Quality
+24;Radiology;Heatmap;doubtful_trustworthy;2;Problem-Specific Quality
+24;Radiology;Segmentation Contour;doubtful_trustworthy;5;Problem-Specific Quality
+24;Radiology;Bounding Box;doubtful_trustworthy;3;Problem-Specific Quality
+26;Pathology;Segmentation Mask;doubtful_trustworthy;4;Problem-Specific Quality
+26;Pathology;Heatmap;doubtful_trustworthy;4;Problem-Specific Quality
+26;Pathology;Segmentation Contour;doubtful_trustworthy;4;Problem-Specific Quality
+26;Pathology;Bounding Box;doubtful_trustworthy;4;Problem-Specific Quality
+32;Radiology;Segmentation Mask;doubtful_trustworthy;3;Problem-Specific Quality
+32;Radiology;Heatmap;doubtful_trustworthy;2;Problem-Specific Quality
+32;Radiology;Segmentation Contour;doubtful_trustworthy;7;Problem-Specific Quality
+32;Radiology;Bounding Box;doubtful_trustworthy;4;Problem-Specific Quality
+34;Pathology;Segmentation Mask;doubtful_trustworthy;4;Problem-Specific Quality
+34;Pathology;Heatmap;doubtful_trustworthy;5;Problem-Specific Quality
+34;Pathology;Segmentation Contour;doubtful_trustworthy;5;Problem-Specific Quality
+34;Pathology;Bounding Box;doubtful_trustworthy;6;Problem-Specific Quality
+35;Pathology;Segmentation Mask;doubtful_trustworthy;4;Problem-Specific Quality
+35;Pathology;Heatmap;doubtful_trustworthy;4;Problem-Specific Quality
+35;Pathology;Segmentation Contour;doubtful_trustworthy;6;Problem-Specific Quality
+35;Pathology;Bounding Box;doubtful_trustworthy;4;Problem-Specific Quality
+36;Pathology;Segmentation Mask;doubtful_trustworthy;2;Problem-Specific Quality
+36;Pathology;Heatmap;doubtful_trustworthy;2;Problem-Specific Quality
+36;Pathology;Segmentation Contour;doubtful_trustworthy;2;Problem-Specific Quality
+36;Pathology;Bounding Box;doubtful_trustworthy;2;Problem-Specific Quality
+37;Pathology;Segmentation Mask;doubtful_trustworthy;7;Problem-Specific Quality
+37;Pathology;Heatmap;doubtful_trustworthy;1;Problem-Specific Quality
+37;Pathology;Segmentation Contour;doubtful_trustworthy;4;Problem-Specific Quality
+37;Pathology;Bounding Box;doubtful_trustworthy;7;Problem-Specific Quality
+40;Pathology;Segmentation Mask;doubtful_trustworthy;7;Problem-Specific Quality
+40;Pathology;Heatmap;doubtful_trustworthy;4;Problem-Specific Quality
+40;Pathology;Segmentation Contour;doubtful_trustworthy;7;Problem-Specific Quality
+40;Pathology;Bounding Box;doubtful_trustworthy;5;Problem-Specific Quality
+41;Radiology;Segmentation Mask;doubtful_trustworthy;5;Problem-Specific Quality
+41;Radiology;Heatmap;doubtful_trustworthy;6;Problem-Specific Quality
+41;Radiology;Segmentation Contour;doubtful_trustworthy;6;Problem-Specific Quality
+41;Radiology;Bounding Box;doubtful_trustworthy;4;Problem-Specific Quality
+42;Pathology;Segmentation Mask;doubtful_trustworthy;4;Problem-Specific Quality
+42;Pathology;Heatmap;doubtful_trustworthy;4;Problem-Specific Quality
+42;Pathology;Segmentation Contour;doubtful_trustworthy;4;Problem-Specific Quality
+42;Pathology;Bounding Box;doubtful_trustworthy;4;Problem-Specific Quality
+43;Pathology;Segmentation Mask;doubtful_trustworthy;6;Problem-Specific Quality
+43;Pathology;Heatmap;doubtful_trustworthy;5;Problem-Specific Quality
+43;Pathology;Segmentation Contour;doubtful_trustworthy;5;Problem-Specific Quality
+43;Pathology;Bounding Box;doubtful_trustworthy;4;Problem-Specific Quality
+45;Pathology;Segmentation Mask;doubtful_trustworthy;1;Problem-Specific Quality
+45;Pathology;Heatmap;doubtful_trustworthy;1;Problem-Specific Quality
+45;Pathology;Segmentation Contour;doubtful_trustworthy;6;Problem-Specific Quality
+45;Pathology;Bounding Box;doubtful_trustworthy;6;Problem-Specific Quality
+46;Radiology;Segmentation Mask;doubtful_trustworthy;5;Problem-Specific Quality
+46;Radiology;Heatmap;doubtful_trustworthy;6;Problem-Specific Quality
+46;Radiology;Segmentation Contour;doubtful_trustworthy;6;Problem-Specific Quality
+46;Radiology;Bounding Box;doubtful_trustworthy;5;Problem-Specific Quality
+52;Pathology;Segmentation Mask;doubtful_trustworthy;4;Problem-Specific Quality
+52;Pathology;Heatmap;doubtful_trustworthy;4;Problem-Specific Quality
+52;Pathology;Segmentation Contour;doubtful_trustworthy;5;Problem-Specific Quality
+52;Pathology;Bounding Box;doubtful_trustworthy;4;Problem-Specific Quality
+55;Radiology;Segmentation Mask;doubtful_trustworthy;4;Problem-Specific Quality
+55;Radiology;Heatmap;doubtful_trustworthy;1;Problem-Specific Quality
+55;Radiology;Segmentation Contour;doubtful_trustworthy;5;Problem-Specific Quality
+55;Radiology;Bounding Box;doubtful_trustworthy;7;Problem-Specific Quality
+64;Pathology;Segmentation Mask;doubtful_trustworthy;6;Problem-Specific Quality
+64;Pathology;Heatmap;doubtful_trustworthy;6;Problem-Specific Quality
+64;Pathology;Segmentation Contour;doubtful_trustworthy;4;Problem-Specific Quality
+64;Pathology;Bounding Box;doubtful_trustworthy;3;Problem-Specific Quality
+69;Radiology;Segmentation Mask;doubtful_trustworthy;1;Problem-Specific Quality
+69;Radiology;Heatmap;doubtful_trustworthy;5;Problem-Specific Quality
+69;Radiology;Segmentation Contour;doubtful_trustworthy;5;Problem-Specific Quality
+69;Radiology;Bounding Box;doubtful_trustworthy;6;Problem-Specific Quality
+71;Pathology;Segmentation Mask;doubtful_trustworthy;5;Problem-Specific Quality
+71;Pathology;Heatmap;doubtful_trustworthy;6;Problem-Specific Quality
+71;Pathology;Segmentation Contour;doubtful_trustworthy;4;Problem-Specific Quality
+71;Pathology;Bounding Box;doubtful_trustworthy;5;Problem-Specific Quality
+78;Pathology;Segmentation Mask;doubtful_trustworthy;6;Problem-Specific Quality
+78;Pathology;Heatmap;doubtful_trustworthy;6;Problem-Specific Quality
+78;Pathology;Segmentation Contour;doubtful_trustworthy;5;Problem-Specific Quality
+78;Pathology;Bounding Box;doubtful_trustworthy;5;Problem-Specific Quality
+88;Radiology;Segmentation Mask;doubtful_trustworthy;6;Problem-Specific Quality
+88;Radiology;Heatmap;doubtful_trustworthy;6;Problem-Specific Quality
+88;Radiology;Segmentation Contour;doubtful_trustworthy;7;Problem-Specific Quality
+88;Radiology;Bounding Box;doubtful_trustworthy;6;Problem-Specific Quality
+90;Radiology;Segmentation Mask;doubtful_trustworthy;4;Problem-Specific Quality
+90;Radiology;Heatmap;doubtful_trustworthy;4;Problem-Specific Quality
+90;Radiology;Segmentation Contour;doubtful_trustworthy;4;Problem-Specific Quality
+90;Radiology;Bounding Box;doubtful_trustworthy;4;Problem-Specific Quality
+91;Radiology;Segmentation Mask;doubtful_trustworthy;5;Problem-Specific Quality
+91;Radiology;Heatmap;doubtful_trustworthy;5;Problem-Specific Quality
+91;Radiology;Segmentation Contour;doubtful_trustworthy;5;Problem-Specific Quality
+91;Radiology;Bounding Box;doubtful_trustworthy;3;Problem-Specific Quality
+92;Pathology;Segmentation Mask;doubtful_trustworthy;4;Problem-Specific Quality
+92;Pathology;Heatmap;doubtful_trustworthy;4;Problem-Specific Quality
+92;Pathology;Segmentation Contour;doubtful_trustworthy;4;Problem-Specific Quality
+92;Pathology;Bounding Box;doubtful_trustworthy;4;Problem-Specific Quality
+23;Pathology;Segmentation Mask;insignificant_meaningful;6;Problem-Specific Quality
+23;Pathology;Heatmap;insignificant_meaningful;6;Problem-Specific Quality
+23;Pathology;Segmentation Contour;insignificant_meaningful;6;Problem-Specific Quality
+23;Pathology;Bounding Box;insignificant_meaningful;5;Problem-Specific Quality
+24;Radiology;Segmentation Mask;insignificant_meaningful;5;Problem-Specific Quality
+24;Radiology;Heatmap;insignificant_meaningful;5;Problem-Specific Quality
+24;Radiology;Segmentation Contour;insignificant_meaningful;7;Problem-Specific Quality
+24;Radiology;Bounding Box;insignificant_meaningful;5;Problem-Specific Quality
+26;Pathology;Segmentation Mask;insignificant_meaningful;4;Problem-Specific Quality
+26;Pathology;Heatmap;insignificant_meaningful;4;Problem-Specific Quality
+26;Pathology;Segmentation Contour;insignificant_meaningful;4;Problem-Specific Quality
+26;Pathology;Bounding Box;insignificant_meaningful;6;Problem-Specific Quality
+32;Radiology;Segmentation Mask;insignificant_meaningful;3;Problem-Specific Quality
+32;Radiology;Heatmap;insignificant_meaningful;2;Problem-Specific Quality
+32;Radiology;Segmentation Contour;insignificant_meaningful;7;Problem-Specific Quality
+32;Radiology;Bounding Box;insignificant_meaningful;4;Problem-Specific Quality
+34;Pathology;Segmentation Mask;insignificant_meaningful;5;Problem-Specific Quality
+34;Pathology;Heatmap;insignificant_meaningful;6;Problem-Specific Quality
+34;Pathology;Segmentation Contour;insignificant_meaningful;5;Problem-Specific Quality
+34;Pathology;Bounding Box;insignificant_meaningful;6;Problem-Specific Quality
+35;Pathology;Segmentation Mask;insignificant_meaningful;4;Problem-Specific Quality
+35;Pathology;Heatmap;insignificant_meaningful;3;Problem-Specific Quality
+35;Pathology;Segmentation Contour;insignificant_meaningful;4;Problem-Specific Quality
+35;Pathology;Bounding Box;insignificant_meaningful;4;Problem-Specific Quality
+36;Pathology;Segmentation Mask;insignificant_meaningful;4;Problem-Specific Quality
+36;Pathology;Heatmap;insignificant_meaningful;4;Problem-Specific Quality
+36;Pathology;Segmentation Contour;insignificant_meaningful;4;Problem-Specific Quality
+36;Pathology;Bounding Box;insignificant_meaningful;3;Problem-Specific Quality
+37;Pathology;Segmentation Mask;insignificant_meaningful;7;Problem-Specific Quality
+37;Pathology;Heatmap;insignificant_meaningful;4;Problem-Specific Quality
+37;Pathology;Segmentation Contour;insignificant_meaningful;7;Problem-Specific Quality
+37;Pathology;Bounding Box;insignificant_meaningful;7;Problem-Specific Quality
+40;Pathology;Segmentation Mask;insignificant_meaningful;6;Problem-Specific Quality
+40;Pathology;Heatmap;insignificant_meaningful;6;Problem-Specific Quality
+40;Pathology;Segmentation Contour;insignificant_meaningful;6;Problem-Specific Quality
+40;Pathology;Bounding Box;insignificant_meaningful;6;Problem-Specific Quality
+41;Radiology;Segmentation Mask;insignificant_meaningful;5;Problem-Specific Quality
+41;Radiology;Heatmap;insignificant_meaningful;6;Problem-Specific Quality
+41;Radiology;Segmentation Contour;insignificant_meaningful;5;Problem-Specific Quality
+41;Radiology;Bounding Box;insignificant_meaningful;4;Problem-Specific Quality
+42;Pathology;Segmentation Mask;insignificant_meaningful;4;Problem-Specific Quality
+42;Pathology;Heatmap;insignificant_meaningful;4;Problem-Specific Quality
+42;Pathology;Segmentation Contour;insignificant_meaningful;4;Problem-Specific Quality
+42;Pathology;Bounding Box;insignificant_meaningful;4;Problem-Specific Quality
+43;Pathology;Segmentation Mask;insignificant_meaningful;6;Problem-Specific Quality
+43;Pathology;Heatmap;insignificant_meaningful;6;Problem-Specific Quality
+43;Pathology;Segmentation Contour;insignificant_meaningful;6;Problem-Specific Quality
+43;Pathology;Bounding Box;insignificant_meaningful;4;Problem-Specific Quality
+45;Pathology;Segmentation Mask;insignificant_meaningful;3;Problem-Specific Quality
+45;Pathology;Heatmap;insignificant_meaningful;2;Problem-Specific Quality
+45;Pathology;Segmentation Contour;insignificant_meaningful;6;Problem-Specific Quality
+45;Pathology;Bounding Box;insignificant_meaningful;6;Problem-Specific Quality
+46;Radiology;Segmentation Mask;insignificant_meaningful;6;Problem-Specific Quality
+46;Radiology;Heatmap;insignificant_meaningful;7;Problem-Specific Quality
+46;Radiology;Segmentation Contour;insignificant_meaningful;5;Problem-Specific Quality
+46;Radiology;Bounding Box;insignificant_meaningful;5;Problem-Specific Quality
+52;Pathology;Segmentation Mask;insignificant_meaningful;4;Problem-Specific Quality
+52;Pathology;Heatmap;insignificant_meaningful;4;Problem-Specific Quality
+52;Pathology;Segmentation Contour;insignificant_meaningful;5;Problem-Specific Quality
+52;Pathology;Bounding Box;insignificant_meaningful;3;Problem-Specific Quality
+55;Radiology;Segmentation Mask;insignificant_meaningful;4;Problem-Specific Quality
+55;Radiology;Heatmap;insignificant_meaningful;4;Problem-Specific Quality
+55;Radiology;Segmentation Contour;insignificant_meaningful;5;Problem-Specific Quality
+55;Radiology;Bounding Box;insignificant_meaningful;6;Problem-Specific Quality
+64;Pathology;Segmentation Mask;insignificant_meaningful;4;Problem-Specific Quality
+64;Pathology;Heatmap;insignificant_meaningful;6;Problem-Specific Quality
+64;Pathology;Segmentation Contour;insignificant_meaningful;5;Problem-Specific Quality
+64;Pathology;Bounding Box;insignificant_meaningful;3;Problem-Specific Quality
+69;Radiology;Segmentation Mask;insignificant_meaningful;4;Problem-Specific Quality
+69;Radiology;Heatmap;insignificant_meaningful;5;Problem-Specific Quality
+69;Radiology;Segmentation Contour;insignificant_meaningful;5;Problem-Specific Quality
+69;Radiology;Bounding Box;insignificant_meaningful;5;Problem-Specific Quality
+71;Pathology;Segmentation Mask;insignificant_meaningful;4;Problem-Specific Quality
+71;Pathology;Heatmap;insignificant_meaningful;6;Problem-Specific Quality
+71;Pathology;Segmentation Contour;insignificant_meaningful;4;Problem-Specific Quality
+71;Pathology;Bounding Box;insignificant_meaningful;2;Problem-Specific Quality
+78;Pathology;Segmentation Mask;insignificant_meaningful;6;Problem-Specific Quality
+78;Pathology;Heatmap;insignificant_meaningful;7;Problem-Specific Quality
+78;Pathology;Segmentation Contour;insignificant_meaningful;6;Problem-Specific Quality
+78;Pathology;Bounding Box;insignificant_meaningful;5;Problem-Specific Quality
+88;Radiology;Segmentation Mask;insignificant_meaningful;6;Problem-Specific Quality
+88;Radiology;Heatmap;insignificant_meaningful;5;Problem-Specific Quality
+88;Radiology;Segmentation Contour;insignificant_meaningful;6;Problem-Specific Quality
+88;Radiology;Bounding Box;insignificant_meaningful;3;Problem-Specific Quality
+90;Radiology;Segmentation Mask;insignificant_meaningful;4;Problem-Specific Quality
+90;Radiology;Heatmap;insignificant_meaningful;4;Problem-Specific Quality
+90;Radiology;Segmentation Contour;insignificant_meaningful;6;Problem-Specific Quality
+90;Radiology;Bounding Box;insignificant_meaningful;4;Problem-Specific Quality
+91;Radiology;Segmentation Mask;insignificant_meaningful;5;Problem-Specific Quality
+91;Radiology;Heatmap;insignificant_meaningful;4;Problem-Specific Quality
+91;Radiology;Segmentation Contour;insignificant_meaningful;5;Problem-Specific Quality
+91;Radiology;Bounding Box;insignificant_meaningful;4;Problem-Specific Quality
+92;Pathology;Segmentation Mask;insignificant_meaningful;4;Problem-Specific Quality
+92;Pathology;Heatmap;insignificant_meaningful;4;Problem-Specific Quality
+92;Pathology;Segmentation Contour;insignificant_meaningful;5;Problem-Specific Quality
+92;Pathology;Bounding Box;insignificant_meaningful;4;Problem-Specific Quality
+23;Pathology;Segmentation Mask;conventional_inventive;5;Hedonic Quality
+23;Pathology;Heatmap;conventional_inventive;5;Hedonic Quality
+23;Pathology;Segmentation Contour;conventional_inventive;3;Hedonic Quality
+23;Pathology;Bounding Box;conventional_inventive;3;Hedonic Quality
+24;Radiology;Segmentation Mask;conventional_inventive;3;Hedonic Quality
+24;Radiology;Heatmap;conventional_inventive;4;Hedonic Quality
+24;Radiology;Segmentation Contour;conventional_inventive;7;Hedonic Quality
+24;Radiology;Bounding Box;conventional_inventive;4;Hedonic Quality
+26;Pathology;Segmentation Mask;conventional_inventive;4;Hedonic Quality
+26;Pathology;Heatmap;conventional_inventive;1;Hedonic Quality
+26;Pathology;Segmentation Contour;conventional_inventive;5;Hedonic Quality
+26;Pathology;Bounding Box;conventional_inventive;4;Hedonic Quality
+32;Radiology;Segmentation Mask;conventional_inventive;3;Hedonic Quality
+32;Radiology;Heatmap;conventional_inventive;2;Hedonic Quality
+32;Radiology;Segmentation Contour;conventional_inventive;4;Hedonic Quality
+32;Radiology;Bounding Box;conventional_inventive;4;Hedonic Quality
+34;Pathology;Segmentation Mask;conventional_inventive;4;Hedonic Quality
+34;Pathology;Heatmap;conventional_inventive;6;Hedonic Quality
+34;Pathology;Segmentation Contour;conventional_inventive;3;Hedonic Quality
+34;Pathology;Bounding Box;conventional_inventive;3;Hedonic Quality
+35;Pathology;Segmentation Mask;conventional_inventive;4;Hedonic Quality
+35;Pathology;Heatmap;conventional_inventive;4;Hedonic Quality
+35;Pathology;Segmentation Contour;conventional_inventive;4;Hedonic Quality
+35;Pathology;Bounding Box;conventional_inventive;4;Hedonic Quality
+36;Pathology;Segmentation Mask;conventional_inventive;4;Hedonic Quality
+36;Pathology;Heatmap;conventional_inventive;5;Hedonic Quality
+36;Pathology;Segmentation Contour;conventional_inventive;4;Hedonic Quality
+36;Pathology;Bounding Box;conventional_inventive;4;Hedonic Quality
+37;Pathology;Segmentation Mask;conventional_inventive;5;Hedonic Quality
+37;Pathology;Heatmap;conventional_inventive;7;Hedonic Quality
+37;Pathology;Segmentation Contour;conventional_inventive;5;Hedonic Quality
+37;Pathology;Bounding Box;conventional_inventive;7;Hedonic Quality
+40;Pathology;Segmentation Mask;conventional_inventive;5;Hedonic Quality
+40;Pathology;Heatmap;conventional_inventive;5;Hedonic Quality
+40;Pathology;Segmentation Contour;conventional_inventive;3;Hedonic Quality
+40;Pathology;Bounding Box;conventional_inventive;4;Hedonic Quality
+41;Radiology;Segmentation Mask;conventional_inventive;5;Hedonic Quality
+41;Radiology;Heatmap;conventional_inventive;7;Hedonic Quality
+41;Radiology;Segmentation Contour;conventional_inventive;5;Hedonic Quality
+41;Radiology;Bounding Box;conventional_inventive;4;Hedonic Quality
+42;Pathology;Segmentation Mask;conventional_inventive;4;Hedonic Quality
+42;Pathology;Heatmap;conventional_inventive;4;Hedonic Quality
+42;Pathology;Segmentation Contour;conventional_inventive;4;Hedonic Quality
+42;Pathology;Bounding Box;conventional_inventive;4;Hedonic Quality
+43;Pathology;Segmentation Mask;conventional_inventive;6;Hedonic Quality
+43;Pathology;Heatmap;conventional_inventive;7;Hedonic Quality
+43;Pathology;Segmentation Contour;conventional_inventive;6;Hedonic Quality
+43;Pathology;Bounding Box;conventional_inventive;3;Hedonic Quality
+45;Pathology;Segmentation Mask;conventional_inventive;6;Hedonic Quality
+45;Pathology;Heatmap;conventional_inventive;6;Hedonic Quality
+45;Pathology;Segmentation Contour;conventional_inventive;5;Hedonic Quality
+45;Pathology;Bounding Box;conventional_inventive;3;Hedonic Quality
+46;Radiology;Segmentation Mask;conventional_inventive;5;Hedonic Quality
+46;Radiology;Heatmap;conventional_inventive;7;Hedonic Quality
+46;Radiology;Segmentation Contour;conventional_inventive;5;Hedonic Quality
+46;Radiology;Bounding Box;conventional_inventive;5;Hedonic Quality
+52;Pathology;Segmentation Mask;conventional_inventive;4;Hedonic Quality
+52;Pathology;Heatmap;conventional_inventive;5;Hedonic Quality
+52;Pathology;Segmentation Contour;conventional_inventive;5;Hedonic Quality
+52;Pathology;Bounding Box;conventional_inventive;3;Hedonic Quality
+55;Radiology;Segmentation Mask;conventional_inventive;5;Hedonic Quality
+55;Radiology;Heatmap;conventional_inventive;4;Hedonic Quality
+55;Radiology;Segmentation Contour;conventional_inventive;4;Hedonic Quality
+55;Radiology;Bounding Box;conventional_inventive;6;Hedonic Quality
+64;Pathology;Segmentation Mask;conventional_inventive;6;Hedonic Quality
+64;Pathology;Heatmap;conventional_inventive;7;Hedonic Quality
+64;Pathology;Segmentation Contour;conventional_inventive;4;Hedonic Quality
+64;Pathology;Bounding Box;conventional_inventive;2;Hedonic Quality
+69;Radiology;Segmentation Mask;conventional_inventive;4;Hedonic Quality
+69;Radiology;Heatmap;conventional_inventive;6;Hedonic Quality
+69;Radiology;Segmentation Contour;conventional_inventive;5;Hedonic Quality
+69;Radiology;Bounding Box;conventional_inventive;6;Hedonic Quality
+71;Pathology;Segmentation Mask;conventional_inventive;5;Hedonic Quality
+71;Pathology;Heatmap;conventional_inventive;6;Hedonic Quality
+71;Pathology;Segmentation Contour;conventional_inventive;4;Hedonic Quality
+71;Pathology;Bounding Box;conventional_inventive;4;Hedonic Quality
+78;Pathology;Segmentation Mask;conventional_inventive;5;Hedonic Quality
+78;Pathology;Heatmap;conventional_inventive;7;Hedonic Quality
+78;Pathology;Segmentation Contour;conventional_inventive;7;Hedonic Quality
+78;Pathology;Bounding Box;conventional_inventive;2;Hedonic Quality
+88;Radiology;Segmentation Mask;conventional_inventive;6;Hedonic Quality
+88;Radiology;Heatmap;conventional_inventive;4;Hedonic Quality
+88;Radiology;Segmentation Contour;conventional_inventive;6;Hedonic Quality
+88;Radiology;Bounding Box;conventional_inventive;2;Hedonic Quality
+90;Radiology;Segmentation Mask;conventional_inventive;7;Hedonic Quality
+90;Radiology;Heatmap;conventional_inventive;7;Hedonic Quality
+90;Radiology;Segmentation Contour;conventional_inventive;7;Hedonic Quality
+90;Radiology;Bounding Box;conventional_inventive;4;Hedonic Quality
+91;Radiology;Segmentation Mask;conventional_inventive;2;Hedonic Quality
+91;Radiology;Heatmap;conventional_inventive;5;Hedonic Quality
+91;Radiology;Segmentation Contour;conventional_inventive;3;Hedonic Quality
+91;Radiology;Bounding Box;conventional_inventive;4;Hedonic Quality
+92;Pathology;Segmentation Mask;conventional_inventive;5;Hedonic Quality
+92;Pathology;Heatmap;conventional_inventive;6;Hedonic Quality
+92;Pathology;Segmentation Contour;conventional_inventive;5;Hedonic Quality
+92;Pathology;Bounding Box;conventional_inventive;1;Hedonic Quality
+23;Pathology;Segmentation Mask;usual_leadingedge;5;Hedonic Quality
+23;Pathology;Heatmap;usual_leadingedge;5;Hedonic Quality
+23;Pathology;Segmentation Contour;usual_leadingedge;3;Hedonic Quality
+23;Pathology;Bounding Box;usual_leadingedge;3;Hedonic Quality
+24;Radiology;Segmentation Mask;usual_leadingedge;3;Hedonic Quality
+24;Radiology;Heatmap;usual_leadingedge;5;Hedonic Quality
+24;Radiology;Segmentation Contour;usual_leadingedge;5;Hedonic Quality
+24;Radiology;Bounding Box;usual_leadingedge;4;Hedonic Quality
+26;Pathology;Segmentation Mask;usual_leadingedge;4;Hedonic Quality
+26;Pathology;Heatmap;usual_leadingedge;1;Hedonic Quality
+26;Pathology;Segmentation Contour;usual_leadingedge;3;Hedonic Quality
+26;Pathology;Bounding Box;usual_leadingedge;2;Hedonic Quality
+32;Radiology;Segmentation Mask;usual_leadingedge;3;Hedonic Quality
+32;Radiology;Heatmap;usual_leadingedge;2;Hedonic Quality
+32;Radiology;Segmentation Contour;usual_leadingedge;4;Hedonic Quality
+32;Radiology;Bounding Box;usual_leadingedge;4;Hedonic Quality
+34;Pathology;Segmentation Mask;usual_leadingedge;5;Hedonic Quality
+34;Pathology;Heatmap;usual_leadingedge;6;Hedonic Quality
+34;Pathology;Segmentation Contour;usual_leadingedge;4;Hedonic Quality
+34;Pathology;Bounding Box;usual_leadingedge;2;Hedonic Quality
+35;Pathology;Segmentation Mask;usual_leadingedge;4;Hedonic Quality
+35;Pathology;Heatmap;usual_leadingedge;3;Hedonic Quality
+35;Pathology;Segmentation Contour;usual_leadingedge;4;Hedonic Quality
+35;Pathology;Bounding Box;usual_leadingedge;4;Hedonic Quality
+36;Pathology;Segmentation Mask;usual_leadingedge;4;Hedonic Quality
+36;Pathology;Heatmap;usual_leadingedge;4;Hedonic Quality
+36;Pathology;Segmentation Contour;usual_leadingedge;4;Hedonic Quality
+36;Pathology;Bounding Box;usual_leadingedge;4;Hedonic Quality
+37;Pathology;Segmentation Mask;usual_leadingedge;5;Hedonic Quality
+37;Pathology;Heatmap;usual_leadingedge;7;Hedonic Quality
+37;Pathology;Segmentation Contour;usual_leadingedge;6;Hedonic Quality
+37;Pathology;Bounding Box;usual_leadingedge;7;Hedonic Quality
+40;Pathology;Segmentation Mask;usual_leadingedge;3;Hedonic Quality
+40;Pathology;Heatmap;usual_leadingedge;5;Hedonic Quality
+40;Pathology;Segmentation Contour;usual_leadingedge;3;Hedonic Quality
+40;Pathology;Bounding Box;usual_leadingedge;4;Hedonic Quality
+41;Radiology;Segmentation Mask;usual_leadingedge;5;Hedonic Quality
+41;Radiology;Heatmap;usual_leadingedge;7;Hedonic Quality
+41;Radiology;Segmentation Contour;usual_leadingedge;6;Hedonic Quality
+41;Radiology;Bounding Box;usual_leadingedge;4;Hedonic Quality
+42;Pathology;Segmentation Mask;usual_leadingedge;4;Hedonic Quality
+42;Pathology;Heatmap;usual_leadingedge;4;Hedonic Quality
+42;Pathology;Segmentation Contour;usual_leadingedge;4;Hedonic Quality
+42;Pathology;Bounding Box;usual_leadingedge;4;Hedonic Quality
+43;Pathology;Segmentation Mask;usual_leadingedge;6;Hedonic Quality
+43;Pathology;Heatmap;usual_leadingedge;7;Hedonic Quality
+43;Pathology;Segmentation Contour;usual_leadingedge;6;Hedonic Quality
+43;Pathology;Bounding Box;usual_leadingedge;3;Hedonic Quality
+45;Pathology;Segmentation Mask;usual_leadingedge;6;Hedonic Quality
+45;Pathology;Heatmap;usual_leadingedge;5;Hedonic Quality
+45;Pathology;Segmentation Contour;usual_leadingedge;5;Hedonic Quality
+45;Pathology;Bounding Box;usual_leadingedge;4;Hedonic Quality
+46;Radiology;Segmentation Mask;usual_leadingedge;5;Hedonic Quality
+46;Radiology;Heatmap;usual_leadingedge;7;Hedonic Quality
+46;Radiology;Segmentation Contour;usual_leadingedge;5;Hedonic Quality
+46;Radiology;Bounding Box;usual_leadingedge;4;Hedonic Quality
+52;Pathology;Segmentation Mask;usual_leadingedge;4;Hedonic Quality
+52;Pathology;Heatmap;usual_leadingedge;5;Hedonic Quality
+52;Pathology;Segmentation Contour;usual_leadingedge;4;Hedonic Quality
+52;Pathology;Bounding Box;usual_leadingedge;4;Hedonic Quality
+55;Radiology;Segmentation Mask;usual_leadingedge;4;Hedonic Quality
+55;Radiology;Heatmap;usual_leadingedge;4;Hedonic Quality
+55;Radiology;Segmentation Contour;usual_leadingedge;5;Hedonic Quality
+55;Radiology;Bounding Box;usual_leadingedge;5;Hedonic Quality
+64;Pathology;Segmentation Mask;usual_leadingedge;5;Hedonic Quality
+64;Pathology;Heatmap;usual_leadingedge;3;Hedonic Quality
+64;Pathology;Segmentation Contour;usual_leadingedge;4;Hedonic Quality
+64;Pathology;Bounding Box;usual_leadingedge;3;Hedonic Quality
+69;Radiology;Segmentation Mask;usual_leadingedge;1;Hedonic Quality
+69;Radiology;Heatmap;usual_leadingedge;5;Hedonic Quality
+69;Radiology;Segmentation Contour;usual_leadingedge;5;Hedonic Quality
+69;Radiology;Bounding Box;usual_leadingedge;2;Hedonic Quality
+71;Pathology;Segmentation Mask;usual_leadingedge;5;Hedonic Quality
+71;Pathology;Heatmap;usual_leadingedge;7;Hedonic Quality
+71;Pathology;Segmentation Contour;usual_leadingedge;4;Hedonic Quality
+71;Pathology;Bounding Box;usual_leadingedge;4;Hedonic Quality
+78;Pathology;Segmentation Mask;usual_leadingedge;5;Hedonic Quality
+78;Pathology;Heatmap;usual_leadingedge;7;Hedonic Quality
+78;Pathology;Segmentation Contour;usual_leadingedge;6;Hedonic Quality
+78;Pathology;Bounding Box;usual_leadingedge;3;Hedonic Quality
+88;Radiology;Segmentation Mask;usual_leadingedge;7;Hedonic Quality
+88;Radiology;Heatmap;usual_leadingedge;4;Hedonic Quality
+88;Radiology;Segmentation Contour;usual_leadingedge;7;Hedonic Quality
+88;Radiology;Bounding Box;usual_leadingedge;2;Hedonic Quality
+90;Radiology;Segmentation Mask;usual_leadingedge;7;Hedonic Quality
+90;Radiology;Heatmap;usual_leadingedge;7;Hedonic Quality
+90;Radiology;Segmentation Contour;usual_leadingedge;7;Hedonic Quality
+90;Radiology;Bounding Box;usual_leadingedge;4;Hedonic Quality
+91;Radiology;Segmentation Mask;usual_leadingedge;3;Hedonic Quality
+91;Radiology;Heatmap;usual_leadingedge;4;Hedonic Quality
+91;Radiology;Segmentation Contour;usual_leadingedge;3;Hedonic Quality
+91;Radiology;Bounding Box;usual_leadingedge;2;Hedonic Quality
+92;Pathology;Segmentation Mask;usual_leadingedge;5;Hedonic Quality
+92;Pathology;Heatmap;usual_leadingedge;6;Hedonic Quality
+92;Pathology;Segmentation Contour;usual_leadingedge;4;Hedonic Quality
+92;Pathology;Bounding Box;usual_leadingedge;1;Hedonic Quality
+23;Pathology;Segmentation Mask;boring_exciting;6;Hedonic Quality
+23;Pathology;Heatmap;boring_exciting;7;Hedonic Quality
+23;Pathology;Segmentation Contour;boring_exciting;5;Hedonic Quality
+23;Pathology;Bounding Box;boring_exciting;5;Hedonic Quality
+24;Radiology;Segmentation Mask;boring_exciting;5;Hedonic Quality
+24;Radiology;Heatmap;boring_exciting;5;Hedonic Quality
+24;Radiology;Segmentation Contour;boring_exciting;5;Hedonic Quality
+24;Radiology;Bounding Box;boring_exciting;4;Hedonic Quality
+26;Pathology;Segmentation Mask;boring_exciting;4;Hedonic Quality
+26;Pathology;Heatmap;boring_exciting;5;Hedonic Quality
+26;Pathology;Segmentation Contour;boring_exciting;4;Hedonic Quality
+26;Pathology;Bounding Box;boring_exciting;4;Hedonic Quality
+32;Radiology;Segmentation Mask;boring_exciting;3;Hedonic Quality
+32;Radiology;Heatmap;boring_exciting;2;Hedonic Quality
+32;Radiology;Segmentation Contour;boring_exciting;4;Hedonic Quality
+32;Radiology;Bounding Box;boring_exciting;4;Hedonic Quality
+34;Pathology;Segmentation Mask;boring_exciting;4;Hedonic Quality
+34;Pathology;Heatmap;boring_exciting;6;Hedonic Quality
+34;Pathology;Segmentation Contour;boring_exciting;3;Hedonic Quality
+34;Pathology;Bounding Box;boring_exciting;2;Hedonic Quality
+35;Pathology;Segmentation Mask;boring_exciting;4;Hedonic Quality
+35;Pathology;Heatmap;boring_exciting;3;Hedonic Quality
+35;Pathology;Segmentation Contour;boring_exciting;5;Hedonic Quality
+35;Pathology;Bounding Box;boring_exciting;4;Hedonic Quality
+36;Pathology;Segmentation Mask;boring_exciting;4;Hedonic Quality
+36;Pathology;Heatmap;boring_exciting;5;Hedonic Quality
+36;Pathology;Segmentation Contour;boring_exciting;4;Hedonic Quality
+36;Pathology;Bounding Box;boring_exciting;4;Hedonic Quality
+37;Pathology;Segmentation Mask;boring_exciting;6;Hedonic Quality
+37;Pathology;Heatmap;boring_exciting;7;Hedonic Quality
+37;Pathology;Segmentation Contour;boring_exciting;5;Hedonic Quality
+37;Pathology;Bounding Box;boring_exciting;7;Hedonic Quality
+40;Pathology;Segmentation Mask;boring_exciting;5;Hedonic Quality
+40;Pathology;Heatmap;boring_exciting;5;Hedonic Quality
+40;Pathology;Segmentation Contour;boring_exciting;5;Hedonic Quality
+40;Pathology;Bounding Box;boring_exciting;3;Hedonic Quality
+41;Radiology;Segmentation Mask;boring_exciting;4;Hedonic Quality
+41;Radiology;Heatmap;boring_exciting;7;Hedonic Quality
+41;Radiology;Segmentation Contour;boring_exciting;4;Hedonic Quality
+41;Radiology;Bounding Box;boring_exciting;4;Hedonic Quality
+42;Pathology;Segmentation Mask;boring_exciting;4;Hedonic Quality
+42;Pathology;Heatmap;boring_exciting;4;Hedonic Quality
+42;Pathology;Segmentation Contour;boring_exciting;4;Hedonic Quality
+42;Pathology;Bounding Box;boring_exciting;4;Hedonic Quality
+43;Pathology;Segmentation Mask;boring_exciting;6;Hedonic Quality
+43;Pathology;Heatmap;boring_exciting;7;Hedonic Quality
+43;Pathology;Segmentation Contour;boring_exciting;6;Hedonic Quality
+43;Pathology;Bounding Box;boring_exciting;2;Hedonic Quality
+45;Pathology;Segmentation Mask;boring_exciting;5;Hedonic Quality
+45;Pathology;Heatmap;boring_exciting;4;Hedonic Quality
+45;Pathology;Segmentation Contour;boring_exciting;7;Hedonic Quality
+45;Pathology;Bounding Box;boring_exciting;3;Hedonic Quality
+46;Radiology;Segmentation Mask;boring_exciting;7;Hedonic Quality
+46;Radiology;Heatmap;boring_exciting;7;Hedonic Quality
+46;Radiology;Segmentation Contour;boring_exciting;5;Hedonic Quality
+46;Radiology;Bounding Box;boring_exciting;4;Hedonic Quality
+52;Pathology;Segmentation Mask;boring_exciting;4;Hedonic Quality
+52;Pathology;Heatmap;boring_exciting;5;Hedonic Quality
+52;Pathology;Segmentation Contour;boring_exciting;5;Hedonic Quality
+52;Pathology;Bounding Box;boring_exciting;3;Hedonic Quality
+55;Radiology;Segmentation Mask;boring_exciting;3;Hedonic Quality
+55;Radiology;Heatmap;boring_exciting;1;Hedonic Quality
+55;Radiology;Segmentation Contour;boring_exciting;4;Hedonic Quality
+55;Radiology;Bounding Box;boring_exciting;5;Hedonic Quality
+64;Pathology;Segmentation Mask;boring_exciting;5;Hedonic Quality
+64;Pathology;Heatmap;boring_exciting;6;Hedonic Quality
+64;Pathology;Segmentation Contour;boring_exciting;3;Hedonic Quality
+64;Pathology;Bounding Box;boring_exciting;3;Hedonic Quality
+69;Radiology;Segmentation Mask;boring_exciting;5;Hedonic Quality
+69;Radiology;Heatmap;boring_exciting;4;Hedonic Quality
+69;Radiology;Segmentation Contour;boring_exciting;5;Hedonic Quality
+69;Radiology;Bounding Box;boring_exciting;3;Hedonic Quality
+71;Pathology;Segmentation Mask;boring_exciting;5;Hedonic Quality
+71;Pathology;Heatmap;boring_exciting;7;Hedonic Quality
+71;Pathology;Segmentation Contour;boring_exciting;4;Hedonic Quality
+71;Pathology;Bounding Box;boring_exciting;4;Hedonic Quality
+78;Pathology;Segmentation Mask;boring_exciting;5;Hedonic Quality
+78;Pathology;Heatmap;boring_exciting;7;Hedonic Quality
+78;Pathology;Segmentation Contour;boring_exciting;7;Hedonic Quality
+78;Pathology;Bounding Box;boring_exciting;6;Hedonic Quality
+88;Radiology;Segmentation Mask;boring_exciting;5;Hedonic Quality
+88;Radiology;Heatmap;boring_exciting;3;Hedonic Quality
+88;Radiology;Segmentation Contour;boring_exciting;7;Hedonic Quality
+88;Radiology;Bounding Box;boring_exciting;2;Hedonic Quality
+90;Radiology;Segmentation Mask;boring_exciting;7;Hedonic Quality
+90;Radiology;Heatmap;boring_exciting;7;Hedonic Quality
+90;Radiology;Segmentation Contour;boring_exciting;7;Hedonic Quality
+90;Radiology;Bounding Box;boring_exciting;4;Hedonic Quality
+91;Radiology;Segmentation Mask;boring_exciting;4;Hedonic Quality
+91;Radiology;Heatmap;boring_exciting;6;Hedonic Quality
+91;Radiology;Segmentation Contour;boring_exciting;5;Hedonic Quality
+91;Radiology;Bounding Box;boring_exciting;4;Hedonic Quality
+92;Pathology;Segmentation Mask;boring_exciting;4;Hedonic Quality
+92;Pathology;Heatmap;boring_exciting;5;Hedonic Quality
+92;Pathology;Segmentation Contour;boring_exciting;4;Hedonic Quality
+92;Pathology;Bounding Box;boring_exciting;4;Hedonic Quality
+23;Pathology;Segmentation Mask;notinteresting_interesting;6;Hedonic Quality
+23;Pathology;Heatmap;notinteresting_interesting;7;Hedonic Quality
+23;Pathology;Segmentation Contour;notinteresting_interesting;6;Hedonic Quality
+23;Pathology;Bounding Box;notinteresting_interesting;6;Hedonic Quality
+24;Radiology;Segmentation Mask;notinteresting_interesting;5;Hedonic Quality
+24;Radiology;Heatmap;notinteresting_interesting;5;Hedonic Quality
+24;Radiology;Segmentation Contour;notinteresting_interesting;7;Hedonic Quality
+24;Radiology;Bounding Box;notinteresting_interesting;4;Hedonic Quality
+26;Pathology;Segmentation Mask;notinteresting_interesting;4;Hedonic Quality
+26;Pathology;Heatmap;notinteresting_interesting;7;Hedonic Quality
+26;Pathology;Segmentation Contour;notinteresting_interesting;5;Hedonic Quality
+26;Pathology;Bounding Box;notinteresting_interesting;4;Hedonic Quality
+32;Radiology;Segmentation Mask;notinteresting_interesting;3;Hedonic Quality
+32;Radiology;Heatmap;notinteresting_interesting;2;Hedonic Quality
+32;Radiology;Segmentation Contour;notinteresting_interesting;4;Hedonic Quality
+32;Radiology;Bounding Box;notinteresting_interesting;4;Hedonic Quality
+34;Pathology;Segmentation Mask;notinteresting_interesting;4;Hedonic Quality
+34;Pathology;Heatmap;notinteresting_interesting;6;Hedonic Quality
+34;Pathology;Segmentation Contour;notinteresting_interesting;3;Hedonic Quality
+34;Pathology;Bounding Box;notinteresting_interesting;4;Hedonic Quality
+35;Pathology;Segmentation Mask;notinteresting_interesting;4;Hedonic Quality
+35;Pathology;Heatmap;notinteresting_interesting;4;Hedonic Quality
+35;Pathology;Segmentation Contour;notinteresting_interesting;4;Hedonic Quality
+35;Pathology;Bounding Box;notinteresting_interesting;4;Hedonic Quality
+36;Pathology;Segmentation Mask;notinteresting_interesting;4;Hedonic Quality
+36;Pathology;Heatmap;notinteresting_interesting;5;Hedonic Quality
+36;Pathology;Segmentation Contour;notinteresting_interesting;4;Hedonic Quality
+36;Pathology;Bounding Box;notinteresting_interesting;4;Hedonic Quality
+37;Pathology;Segmentation Mask;notinteresting_interesting;7;Hedonic Quality
+37;Pathology;Heatmap;notinteresting_interesting;7;Hedonic Quality
+37;Pathology;Segmentation Contour;notinteresting_interesting;6;Hedonic Quality
+37;Pathology;Bounding Box;notinteresting_interesting;7;Hedonic Quality
+40;Pathology;Segmentation Mask;notinteresting_interesting;5;Hedonic Quality
+40;Pathology;Heatmap;notinteresting_interesting;5;Hedonic Quality
+40;Pathology;Segmentation Contour;notinteresting_interesting;5;Hedonic Quality
+40;Pathology;Bounding Box;notinteresting_interesting;4;Hedonic Quality
+41;Radiology;Segmentation Mask;notinteresting_interesting;4;Hedonic Quality
+41;Radiology;Heatmap;notinteresting_interesting;7;Hedonic Quality
+41;Radiology;Segmentation Contour;notinteresting_interesting;5;Hedonic Quality
+41;Radiology;Bounding Box;notinteresting_interesting;4;Hedonic Quality
+42;Pathology;Segmentation Mask;notinteresting_interesting;4;Hedonic Quality
+42;Pathology;Heatmap;notinteresting_interesting;4;Hedonic Quality
+42;Pathology;Segmentation Contour;notinteresting_interesting;4;Hedonic Quality
+42;Pathology;Bounding Box;notinteresting_interesting;4;Hedonic Quality
+43;Pathology;Segmentation Mask;notinteresting_interesting;6;Hedonic Quality
+43;Pathology;Heatmap;notinteresting_interesting;7;Hedonic Quality
+43;Pathology;Segmentation Contour;notinteresting_interesting;6;Hedonic Quality
+43;Pathology;Bounding Box;notinteresting_interesting;3;Hedonic Quality
+45;Pathology;Segmentation Mask;notinteresting_interesting;5;Hedonic Quality
+45;Pathology;Heatmap;notinteresting_interesting;3;Hedonic Quality
+45;Pathology;Segmentation Contour;notinteresting_interesting;6;Hedonic Quality
+45;Pathology;Bounding Box;notinteresting_interesting;3;Hedonic Quality
+46;Radiology;Segmentation Mask;notinteresting_interesting;7;Hedonic Quality
+46;Radiology;Heatmap;notinteresting_interesting;7;Hedonic Quality
+46;Radiology;Segmentation Contour;notinteresting_interesting;5;Hedonic Quality
+46;Radiology;Bounding Box;notinteresting_interesting;4;Hedonic Quality
+52;Pathology;Segmentation Mask;notinteresting_interesting;4;Hedonic Quality
+52;Pathology;Heatmap;notinteresting_interesting;6;Hedonic Quality
+52;Pathology;Segmentation Contour;notinteresting_interesting;5;Hedonic Quality
+52;Pathology;Bounding Box;notinteresting_interesting;4;Hedonic Quality
+55;Radiology;Segmentation Mask;notinteresting_interesting;4;Hedonic Quality
+55;Radiology;Heatmap;notinteresting_interesting;5;Hedonic Quality
+55;Radiology;Segmentation Contour;notinteresting_interesting;6;Hedonic Quality
+55;Radiology;Bounding Box;notinteresting_interesting;7;Hedonic Quality
+64;Pathology;Segmentation Mask;notinteresting_interesting;7;Hedonic Quality
+64;Pathology;Heatmap;notinteresting_interesting;7;Hedonic Quality
+64;Pathology;Segmentation Contour;notinteresting_interesting;5;Hedonic Quality
+64;Pathology;Bounding Box;notinteresting_interesting;4;Hedonic Quality
+69;Radiology;Segmentation Mask;notinteresting_interesting;6;Hedonic Quality
+69;Radiology;Heatmap;notinteresting_interesting;5;Hedonic Quality
+69;Radiology;Segmentation Contour;notinteresting_interesting;5;Hedonic Quality
+69;Radiology;Bounding Box;notinteresting_interesting;4;Hedonic Quality
+71;Pathology;Segmentation Mask;notinteresting_interesting;5;Hedonic Quality
+71;Pathology;Heatmap;notinteresting_interesting;6;Hedonic Quality
+71;Pathology;Segmentation Contour;notinteresting_interesting;4;Hedonic Quality
+71;Pathology;Bounding Box;notinteresting_interesting;4;Hedonic Quality
+78;Pathology;Segmentation Mask;notinteresting_interesting;7;Hedonic Quality
+78;Pathology;Heatmap;notinteresting_interesting;7;Hedonic Quality
+78;Pathology;Segmentation Contour;notinteresting_interesting;7;Hedonic Quality
+78;Pathology;Bounding Box;notinteresting_interesting;6;Hedonic Quality
+88;Radiology;Segmentation Mask;notinteresting_interesting;7;Hedonic Quality
+88;Radiology;Heatmap;notinteresting_interesting;5;Hedonic Quality
+88;Radiology;Segmentation Contour;notinteresting_interesting;7;Hedonic Quality
+88;Radiology;Bounding Box;notinteresting_interesting;2;Hedonic Quality
+90;Radiology;Segmentation Mask;notinteresting_interesting;7;Hedonic Quality
+90;Radiology;Heatmap;notinteresting_interesting;7;Hedonic Quality
+90;Radiology;Segmentation Contour;notinteresting_interesting;7;Hedonic Quality
+90;Radiology;Bounding Box;notinteresting_interesting;4;Hedonic Quality
+91;Radiology;Segmentation Mask;notinteresting_interesting;4;Hedonic Quality
+91;Radiology;Heatmap;notinteresting_interesting;5;Hedonic Quality
+91;Radiology;Segmentation Contour;notinteresting_interesting;5;Hedonic Quality
+91;Radiology;Bounding Box;notinteresting_interesting;4;Hedonic Quality
+92;Pathology;Segmentation Mask;notinteresting_interesting;3;Hedonic Quality
+92;Pathology;Heatmap;notinteresting_interesting;4;Hedonic Quality
+92;Pathology;Segmentation Contour;notinteresting_interesting;4;Hedonic Quality
+92;Pathology;Bounding Box;notinteresting_interesting;5;Hedonic Quality
+23;Pathology;Segmentation Mask;obstructive_supportive;5;Pragmatic Quality
+23;Pathology;Heatmap;obstructive_supportive;5;Pragmatic Quality
+23;Pathology;Segmentation Contour;obstructive_supportive;7;Pragmatic Quality
+23;Pathology;Bounding Box;obstructive_supportive;7;Pragmatic Quality
+24;Radiology;Segmentation Mask;obstructive_supportive;2;Pragmatic Quality
+24;Radiology;Heatmap;obstructive_supportive;2;Pragmatic Quality
+24;Radiology;Segmentation Contour;obstructive_supportive;2;Pragmatic Quality
+24;Radiology;Bounding Box;obstructive_supportive;5;Pragmatic Quality
+26;Pathology;Segmentation Mask;obstructive_supportive;2;Pragmatic Quality
+26;Pathology;Heatmap;obstructive_supportive;4;Pragmatic Quality
+26;Pathology;Segmentation Contour;obstructive_supportive;7;Pragmatic Quality
+26;Pathology;Bounding Box;obstructive_supportive;5;Pragmatic Quality
+32;Radiology;Segmentation Mask;obstructive_supportive;4;Pragmatic Quality
+32;Radiology;Heatmap;obstructive_supportive;2;Pragmatic Quality
+32;Radiology;Segmentation Contour;obstructive_supportive;7;Pragmatic Quality
+32;Radiology;Bounding Box;obstructive_supportive;4;Pragmatic Quality
+34;Pathology;Segmentation Mask;obstructive_supportive;3;Pragmatic Quality
+34;Pathology;Heatmap;obstructive_supportive;2;Pragmatic Quality
+34;Pathology;Segmentation Contour;obstructive_supportive;6;Pragmatic Quality
+34;Pathology;Bounding Box;obstructive_supportive;7;Pragmatic Quality
+35;Pathology;Segmentation Mask;obstructive_supportive;2;Pragmatic Quality
+35;Pathology;Heatmap;obstructive_supportive;3;Pragmatic Quality
+35;Pathology;Segmentation Contour;obstructive_supportive;7;Pragmatic Quality
+35;Pathology;Bounding Box;obstructive_supportive;4;Pragmatic Quality
+36;Pathology;Segmentation Mask;obstructive_supportive;5;Pragmatic Quality
+36;Pathology;Heatmap;obstructive_supportive;5;Pragmatic Quality
+36;Pathology;Segmentation Contour;obstructive_supportive;5;Pragmatic Quality
+36;Pathology;Bounding Box;obstructive_supportive;4;Pragmatic Quality
+37;Pathology;Segmentation Mask;obstructive_supportive;6;Pragmatic Quality
+37;Pathology;Heatmap;obstructive_supportive;1;Pragmatic Quality
+37;Pathology;Segmentation Contour;obstructive_supportive;7;Pragmatic Quality
+37;Pathology;Bounding Box;obstructive_supportive;7;Pragmatic Quality
+40;Pathology;Segmentation Mask;obstructive_supportive;7;Pragmatic Quality
+40;Pathology;Heatmap;obstructive_supportive;7;Pragmatic Quality
+40;Pathology;Segmentation Contour;obstructive_supportive;7;Pragmatic Quality
+40;Pathology;Bounding Box;obstructive_supportive;6;Pragmatic Quality
+41;Radiology;Segmentation Mask;obstructive_supportive;3;Pragmatic Quality
+41;Radiology;Heatmap;obstructive_supportive;7;Pragmatic Quality
+41;Radiology;Segmentation Contour;obstructive_supportive;7;Pragmatic Quality
+41;Radiology;Bounding Box;obstructive_supportive;4;Pragmatic Quality
+42;Pathology;Segmentation Mask;obstructive_supportive;4;Pragmatic Quality
+42;Pathology;Heatmap;obstructive_supportive;4;Pragmatic Quality
+42;Pathology;Segmentation Contour;obstructive_supportive;4;Pragmatic Quality
+42;Pathology;Bounding Box;obstructive_supportive;4;Pragmatic Quality
+43;Pathology;Segmentation Mask;obstructive_supportive;7;Pragmatic Quality
+43;Pathology;Heatmap;obstructive_supportive;6;Pragmatic Quality
+43;Pathology;Segmentation Contour;obstructive_supportive;7;Pragmatic Quality
+43;Pathology;Bounding Box;obstructive_supportive;4;Pragmatic Quality
+45;Pathology;Segmentation Mask;obstructive_supportive;5;Pragmatic Quality
+45;Pathology;Heatmap;obstructive_supportive;1;Pragmatic Quality
+45;Pathology;Segmentation Contour;obstructive_supportive;6;Pragmatic Quality
+45;Pathology;Bounding Box;obstructive_supportive;6;Pragmatic Quality
+46;Radiology;Segmentation Mask;obstructive_supportive;5;Pragmatic Quality
+46;Radiology;Heatmap;obstructive_supportive;7;Pragmatic Quality
+46;Radiology;Segmentation Contour;obstructive_supportive;5;Pragmatic Quality
+46;Radiology;Bounding Box;obstructive_supportive;4;Pragmatic Quality
+52;Pathology;Segmentation Mask;obstructive_supportive;3;Pragmatic Quality
+52;Pathology;Heatmap;obstructive_supportive;5;Pragmatic Quality
+52;Pathology;Segmentation Contour;obstructive_supportive;6;Pragmatic Quality
+52;Pathology;Bounding Box;obstructive_supportive;4;Pragmatic Quality
+55;Radiology;Segmentation Mask;obstructive_supportive;6;Pragmatic Quality
+55;Radiology;Heatmap;obstructive_supportive;3;Pragmatic Quality
+55;Radiology;Segmentation Contour;obstructive_supportive;3;Pragmatic Quality
+55;Radiology;Bounding Box;obstructive_supportive;7;Pragmatic Quality
+64;Pathology;Segmentation Mask;obstructive_supportive;7;Pragmatic Quality
+64;Pathology;Heatmap;obstructive_supportive;7;Pragmatic Quality
+64;Pathology;Segmentation Contour;obstructive_supportive;6;Pragmatic Quality
+64;Pathology;Bounding Box;obstructive_supportive;4;Pragmatic Quality
+69;Radiology;Segmentation Mask;obstructive_supportive;1;Pragmatic Quality
+69;Radiology;Heatmap;obstructive_supportive;4;Pragmatic Quality
+69;Radiology;Segmentation Contour;obstructive_supportive;5;Pragmatic Quality
+69;Radiology;Bounding Box;obstructive_supportive;5;Pragmatic Quality
+71;Pathology;Segmentation Mask;obstructive_supportive;4;Pragmatic Quality
+71;Pathology;Heatmap;obstructive_supportive;6;Pragmatic Quality
+71;Pathology;Segmentation Contour;obstructive_supportive;6;Pragmatic Quality
+71;Pathology;Bounding Box;obstructive_supportive;7;Pragmatic Quality
+78;Pathology;Segmentation Mask;obstructive_supportive;5;Pragmatic Quality
+78;Pathology;Heatmap;obstructive_supportive;7;Pragmatic Quality
+78;Pathology;Segmentation Contour;obstructive_supportive;7;Pragmatic Quality
+78;Pathology;Bounding Box;obstructive_supportive;5;Pragmatic Quality
+88;Radiology;Segmentation Mask;obstructive_supportive;6;Pragmatic Quality
+88;Radiology;Heatmap;obstructive_supportive;7;Pragmatic Quality
+88;Radiology;Segmentation Contour;obstructive_supportive;6;Pragmatic Quality
+88;Radiology;Bounding Box;obstructive_supportive;3;Pragmatic Quality
+90;Radiology;Segmentation Mask;obstructive_supportive;7;Pragmatic Quality
+90;Radiology;Heatmap;obstructive_supportive;7;Pragmatic Quality
+90;Radiology;Segmentation Contour;obstructive_supportive;7;Pragmatic Quality
+90;Radiology;Bounding Box;obstructive_supportive;5;Pragmatic Quality
+91;Radiology;Segmentation Mask;obstructive_supportive;6;Pragmatic Quality
+91;Radiology;Heatmap;obstructive_supportive;6;Pragmatic Quality
+91;Radiology;Segmentation Contour;obstructive_supportive;5;Pragmatic Quality
+91;Radiology;Bounding Box;obstructive_supportive;6;Pragmatic Quality
+92;Pathology;Segmentation Mask;obstructive_supportive;2;Pragmatic Quality
+92;Pathology;Heatmap;obstructive_supportive;2;Pragmatic Quality
+92;Pathology;Segmentation Contour;obstructive_supportive;5;Pragmatic Quality
+92;Pathology;Bounding Box;obstructive_supportive;6;Pragmatic Quality
+23;Pathology;Segmentation Mask;inefficient_efficient;7;Pragmatic Quality
+23;Pathology;Heatmap;inefficient_efficient;7;Pragmatic Quality
+23;Pathology;Segmentation Contour;inefficient_efficient;7;Pragmatic Quality
+23;Pathology;Bounding Box;inefficient_efficient;7;Pragmatic Quality
+24;Radiology;Segmentation Mask;inefficient_efficient;3;Pragmatic Quality
+24;Radiology;Heatmap;inefficient_efficient;3;Pragmatic Quality
+24;Radiology;Segmentation Contour;inefficient_efficient;7;Pragmatic Quality
+24;Radiology;Bounding Box;inefficient_efficient;3;Pragmatic Quality
+26;Pathology;Segmentation Mask;inefficient_efficient;5;Pragmatic Quality
+26;Pathology;Heatmap;inefficient_efficient;6;Pragmatic Quality
+26;Pathology;Segmentation Contour;inefficient_efficient;5;Pragmatic Quality
+26;Pathology;Bounding Box;inefficient_efficient;3;Pragmatic Quality
+32;Radiology;Segmentation Mask;inefficient_efficient;3;Pragmatic Quality
+32;Radiology;Heatmap;inefficient_efficient;2;Pragmatic Quality
+32;Radiology;Segmentation Contour;inefficient_efficient;7;Pragmatic Quality
+32;Radiology;Bounding Box;inefficient_efficient;4;Pragmatic Quality
+34;Pathology;Segmentation Mask;inefficient_efficient;4;Pragmatic Quality
+34;Pathology;Heatmap;inefficient_efficient;6;Pragmatic Quality
+34;Pathology;Segmentation Contour;inefficient_efficient;6;Pragmatic Quality
+34;Pathology;Bounding Box;inefficient_efficient;7;Pragmatic Quality
+35;Pathology;Segmentation Mask;inefficient_efficient;3;Pragmatic Quality
+35;Pathology;Heatmap;inefficient_efficient;3;Pragmatic Quality
+35;Pathology;Segmentation Contour;inefficient_efficient;7;Pragmatic Quality
+35;Pathology;Bounding Box;inefficient_efficient;4;Pragmatic Quality
+36;Pathology;Segmentation Mask;inefficient_efficient;5;Pragmatic Quality
+36;Pathology;Heatmap;inefficient_efficient;5;Pragmatic Quality
+36;Pathology;Segmentation Contour;inefficient_efficient;5;Pragmatic Quality
+36;Pathology;Bounding Box;inefficient_efficient;4;Pragmatic Quality
+37;Pathology;Segmentation Mask;inefficient_efficient;7;Pragmatic Quality
+37;Pathology;Heatmap;inefficient_efficient;1;Pragmatic Quality
+37;Pathology;Segmentation Contour;inefficient_efficient;7;Pragmatic Quality
+37;Pathology;Bounding Box;inefficient_efficient;7;Pragmatic Quality
+40;Pathology;Segmentation Mask;inefficient_efficient;7;Pragmatic Quality
+40;Pathology;Heatmap;inefficient_efficient;6;Pragmatic Quality
+40;Pathology;Segmentation Contour;inefficient_efficient;7;Pragmatic Quality
+40;Pathology;Bounding Box;inefficient_efficient;6;Pragmatic Quality
+41;Radiology;Segmentation Mask;inefficient_efficient;3;Pragmatic Quality
+41;Radiology;Heatmap;inefficient_efficient;7;Pragmatic Quality
+41;Radiology;Segmentation Contour;inefficient_efficient;7;Pragmatic Quality
+41;Radiology;Bounding Box;inefficient_efficient;4;Pragmatic Quality
+42;Pathology;Segmentation Mask;inefficient_efficient;4;Pragmatic Quality
+42;Pathology;Heatmap;inefficient_efficient;4;Pragmatic Quality
+42;Pathology;Segmentation Contour;inefficient_efficient;4;Pragmatic Quality
+42;Pathology;Bounding Box;inefficient_efficient;4;Pragmatic Quality
+43;Pathology;Segmentation Mask;inefficient_efficient;7;Pragmatic Quality
+43;Pathology;Heatmap;inefficient_efficient;6;Pragmatic Quality
+43;Pathology;Segmentation Contour;inefficient_efficient;7;Pragmatic Quality
+43;Pathology;Bounding Box;inefficient_efficient;2;Pragmatic Quality
+45;Pathology;Segmentation Mask;inefficient_efficient;6;Pragmatic Quality
+45;Pathology;Heatmap;inefficient_efficient;1;Pragmatic Quality
+45;Pathology;Segmentation Contour;inefficient_efficient;7;Pragmatic Quality
+45;Pathology;Bounding Box;inefficient_efficient;5;Pragmatic Quality
+46;Radiology;Segmentation Mask;inefficient_efficient;7;Pragmatic Quality
+46;Radiology;Heatmap;inefficient_efficient;7;Pragmatic Quality
+46;Radiology;Segmentation Contour;inefficient_efficient;6;Pragmatic Quality
+46;Radiology;Bounding Box;inefficient_efficient;3;Pragmatic Quality
+52;Pathology;Segmentation Mask;inefficient_efficient;3;Pragmatic Quality
+52;Pathology;Heatmap;inefficient_efficient;4;Pragmatic Quality
+52;Pathology;Segmentation Contour;inefficient_efficient;4;Pragmatic Quality
+52;Pathology;Bounding Box;inefficient_efficient;4;Pragmatic Quality
+55;Radiology;Segmentation Mask;inefficient_efficient;4;Pragmatic Quality
+55;Radiology;Heatmap;inefficient_efficient;6;Pragmatic Quality
+55;Radiology;Segmentation Contour;inefficient_efficient;4;Pragmatic Quality
+55;Radiology;Bounding Box;inefficient_efficient;7;Pragmatic Quality
+64;Pathology;Segmentation Mask;inefficient_efficient;4;Pragmatic Quality
+64;Pathology;Heatmap;inefficient_efficient;5;Pragmatic Quality
+64;Pathology;Segmentation Contour;inefficient_efficient;4;Pragmatic Quality
+64;Pathology;Bounding Box;inefficient_efficient;4;Pragmatic Quality
+69;Radiology;Segmentation Mask;inefficient_efficient;4;Pragmatic Quality
+69;Radiology;Heatmap;inefficient_efficient;4;Pragmatic Quality
+69;Radiology;Segmentation Contour;inefficient_efficient;4;Pragmatic Quality
+69;Radiology;Bounding Box;inefficient_efficient;5;Pragmatic Quality
+71;Pathology;Segmentation Mask;inefficient_efficient;4;Pragmatic Quality
+71;Pathology;Heatmap;inefficient_efficient;6;Pragmatic Quality
+71;Pathology;Segmentation Contour;inefficient_efficient;4;Pragmatic Quality
+71;Pathology;Bounding Box;inefficient_efficient;4;Pragmatic Quality
+78;Pathology;Segmentation Mask;inefficient_efficient;7;Pragmatic Quality
+78;Pathology;Heatmap;inefficient_efficient;5;Pragmatic Quality
+78;Pathology;Segmentation Contour;inefficient_efficient;7;Pragmatic Quality
+78;Pathology;Bounding Box;inefficient_efficient;5;Pragmatic Quality
+88;Radiology;Segmentation Mask;inefficient_efficient;6;Pragmatic Quality
+88;Radiology;Heatmap;inefficient_efficient;4;Pragmatic Quality
+88;Radiology;Segmentation Contour;inefficient_efficient;7;Pragmatic Quality
+88;Radiology;Bounding Box;inefficient_efficient;2;Pragmatic Quality
+90;Radiology;Segmentation Mask;inefficient_efficient;7;Pragmatic Quality
+90;Radiology;Heatmap;inefficient_efficient;7;Pragmatic Quality
+90;Radiology;Segmentation Contour;inefficient_efficient;7;Pragmatic Quality
+90;Radiology;Bounding Box;inefficient_efficient;4;Pragmatic Quality
+91;Radiology;Segmentation Mask;inefficient_efficient;4;Pragmatic Quality
+91;Radiology;Heatmap;inefficient_efficient;6;Pragmatic Quality
+91;Radiology;Segmentation Contour;inefficient_efficient;6;Pragmatic Quality
+91;Radiology;Bounding Box;inefficient_efficient;4;Pragmatic Quality
+92;Pathology;Segmentation Mask;inefficient_efficient;3;Pragmatic Quality
+92;Pathology;Heatmap;inefficient_efficient;2;Pragmatic Quality
+92;Pathology;Segmentation Contour;inefficient_efficient;5;Pragmatic Quality
+92;Pathology;Bounding Box;inefficient_efficient;6;Pragmatic Quality
